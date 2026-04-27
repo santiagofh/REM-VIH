@@ -42,10 +42,35 @@ IDENTIFIER_COLUMNS = [
     "Codigo Comuna REM",
 ]
 
+# Jerarquía geográfica/organizacional para desagregación
+GEO_HIERARCHY = [
+    "Región",
+    "Servicio de Salud",
+    "Comuna",
+    "Establecimiento",
+]
+
+# Columnas no-numéricas que siempre van en el GROUP BY al agregar
+BASE_GROUP_COLUMNS = [
+    "Prestación",
+    "Detalle de prestación",
+    "Mes",
+    "Año",
+]
+
+DISAGGREGATION_LEVELS = {
+    "Nacional":          [],
+    "Región":            ["Región"],
+    "Servicio de Salud": ["Región", "Servicio de Salud"],
+    "Comuna":            ["Región", "Servicio de Salud", "Comuna"],
+    "Establecimiento":   ["Región", "Servicio de Salud", "Comuna", "Establecimiento", "Codigo DEIS"],
+    "Sin agregar":       None,   # None = devuelve el df tal cual
+}
+
 
 def render_year_badge() -> None:
     st.markdown(
-        '<div class="year-badge">Solo datos REM VIH 2025</div>',
+        '<div class="year-badge">Datos Provisorios</div>',
         unsafe_allow_html=True,
     )
 
@@ -113,6 +138,39 @@ def build_prestation_labels(df: pd.DataFrame) -> dict[str, str]:
         label = f"{code} | {detail}" if detail else code
         labels[label] = code
     return labels
+
+
+def aggregate_dataframe(df: pd.DataFrame, level: str) -> pd.DataFrame:
+    """
+    Agrupa df según el nivel de desagregación elegido y suma columnas numéricas.
+    Si level == 'Sin agregar' devuelve el df intacto.
+    """
+    geo_cols = DISAGGREGATION_LEVELS.get(level)
+    if geo_cols is None:
+        return df
+
+    # Columnas de agrupación: geo del nivel + base (prestación, mes, año…)
+    group_cols = [
+        col for col in geo_cols + BASE_GROUP_COLUMNS
+        if col in df.columns
+    ]
+
+    if not group_cols:
+        return df
+
+    # Columnas numéricas que se suman (excluir las de agrupación y códigos)
+    exclude = set(group_cols) | {"Codigo Servicio REM", "Codigo Comuna REM"}
+    num_cols = [
+        col for col in df.select_dtypes(include="number").columns
+        if col not in exclude
+    ]
+
+    if not num_cols:
+        return df.groupby(group_cols, sort=True, as_index=False).first()
+
+    agg_dict = {col: "sum" for col in num_cols}
+    result = df.groupby(group_cols, sort=True, as_index=False).agg(agg_dict)
+    return result.reset_index(drop=True)
 
 
 @st.cache_data(show_spinner=False)
@@ -247,6 +305,8 @@ def build_export_context(
     section_name: str,
     total_rows: int,
     filtered_rows: int,
+    aggregated_rows: int,
+    disagg_level: str,
     selected_services: list[str],
     selected_communes: list[str],
     selected_establishments: list[str],
@@ -257,8 +317,10 @@ def build_export_context(
         {"Campo": "REM", "Valor": rem_name},
         {"Campo": "Sección", "Valor": section_name.replace("Seccion", "Sección")},
         {"Campo": "Corte", "Valor": SOURCE_NOTES.get(rem_name, "")},
+        {"Campo": "Nivel de desagregación", "Valor": disagg_level},
         {"Campo": "Filas totales en sección", "Valor": total_rows},
-        {"Campo": "Filas exportadas", "Valor": filtered_rows},
+        {"Campo": "Filas filtradas", "Valor": filtered_rows},
+        {"Campo": "Filas exportadas (agregadas)", "Valor": aggregated_rows},
         {"Campo": "Servicio de Salud", "Valor": ", ".join(selected_services) or "Todos"},
         {"Campo": "Comuna", "Valor": ", ".join(selected_communes) or "Todas"},
         {"Campo": "Establecimiento", "Valor": ", ".join(selected_establishments) or "Todos"},
@@ -268,98 +330,20 @@ def build_export_context(
     return pd.DataFrame(rows)
 
 
-def render_intro_cards() -> None:
-    left, right = st.columns(2)
-
-    with left:
-        st.markdown(
-            """
-            <div class="info-card">
-                <div class="info-card-title">REM A05</div>
-                <p class="info-card-copy">Serie acumulada enero a diciembre 2025. Incluye secciones clínicas y programáticas con desglose por prestación, establecimiento y territorio.</p>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-    with right:
-        st.markdown(
-            """
-            <div class="info-card">
-                <div class="info-card-title">REM P11</div>
-                <p class="info-card-copy">Serie con corte de diciembre 2025. Se integra para consulta directa en formato tabular, sin cálculos de indicadores ni visualizaciones derivadas.</p>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-
-
 def render_home_page() -> None:
-    catalog = build_data_catalog()
+    build_data_catalog()
 
     st.title("Dashboard REM VIH 2025")
     render_year_badge()
-    st.markdown(
-        """
-        <div class="hero-panel">
-            <div class="hero-title">Consulta tabular REM VIH para 2025</div>
-            <p class="hero-copy">Este dashboard toma como base la estructura de REM Mamografía, pero aquí la lógica es distinta: no calcula indicadores ni muestra gráficos. El foco está en navegar, filtrar y descargar las tablas de las series <strong>REM A05</strong> y <strong>REM P11</strong> para 2025.</p>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
 
-    render_intro_cards()
-
-    st.markdown("### Catálogo de secciones")
-    st.caption("Resumen de las tablas disponibles en los archivos consolidados del año 2025.")
-    st.dataframe(
-        catalog,
-        width="stretch",
-        hide_index=True,
-        height=530,
-        column_config={
-            "Filas": st.column_config.NumberColumn(format="%d"),
-            "Columnas": st.column_config.NumberColumn(format="%d"),
-            "Prestaciones": st.column_config.NumberColumn(format="%d"),
-        },
-    )
-
-    catalog_excel = dataframe_to_excel_bytes(catalog, "Catalogo")
-
-    st.markdown("### Descargas rápidas")
-    first_col, second_col, third_col = st.columns(3)
-    with first_col:
-        st.download_button(
-            "Descargar A05 2025",
-            data=load_workbook_bytes("REM A05"),
-            file_name="A05_2025.xlsx",
-            mime=EXCEL_MIME,
-            use_container_width=True,
-        )
-    with second_col:
-        st.download_button(
-            "Descargar P11 2025",
-            data=load_workbook_bytes("REM P11"),
-            file_name="P11_2025.xlsx",
-            mime=EXCEL_MIME,
-            use_container_width=True,
-        )
-    with third_col:
-        st.download_button(
-            "Descargar catálogo",
-            data=catalog_excel,
-            file_name="REM_VIH_2025_catalogo.xlsx",
-            mime=EXCEL_MIME,
-            use_container_width=True,
-        )
-
-    st.markdown("### Uso sugerido")
+    st.markdown("### Instrucciones")
     st.markdown(
         """
 1. Entra a **Explorador** desde el menú lateral.
 2. Selecciona la serie REM y la sección que quieras revisar.
 3. Aplica filtros por servicio, comuna, establecimiento o prestación.
-4. Descarga la tabla filtrada en Excel o CSV cuando la dejes lista.
+4. Elige el **nivel de desagregación** para ver totales por región, servicio, comuna o establecimiento.
+5. Descarga la tabla filtrada en Excel o CSV cuando la dejes lista.
         """
     )
 
@@ -442,6 +426,22 @@ def render_explorer_page() -> None:
             if not selected_columns:
                 selected_columns = default_visible_columns(list(df.columns))
 
+    # ── Nivel de desagregación ────────────────────────────────────────────
+    st.markdown("### Nivel de desagregación")
+    st.caption(
+        "Elige hasta qué nivel quieres ver los totales. "
+        "Las columnas numéricas se suman dentro de cada grupo. "
+        "'Sin agregar' muestra la tabla original fila a fila."
+    )
+    disagg_level = st.radio(
+        "Nivel",
+        options=list(DISAGGREGATION_LEVELS.keys()),
+        index=len(DISAGGREGATION_LEVELS) - 1,  # Por defecto: Sin agregar
+        horizontal=True,
+        label_visibility="collapsed",
+    )
+
+    # Aplicar filtros primero, luego agregar
     filtered_df = filter_dataframe(
         df,
         selected_services=selected_services,
@@ -451,12 +451,18 @@ def render_explorer_page() -> None:
         search_text=search_text,
     )
 
-    display_df = filtered_df[selected_columns].copy()
+    aggregated_df = aggregate_dataframe(filtered_df, disagg_level)
+
+    # Columnas visibles (sobre el df ya agregado)
+    available_cols = [c for c in selected_columns if c in aggregated_df.columns]
+    display_df = aggregated_df[available_cols].copy()
     display_df = display_df.where(pd.notna(display_df), "")
 
     st.markdown("### Tabla")
     st.caption(
-        f"Mostrando {len(filtered_df):,} registros de {len(df):,} en {section_name.replace('Seccion', 'Sección')}."
+        f"Mostrando **{len(aggregated_df):,} filas** "
+        f"(de {len(filtered_df):,} registros filtrados, {len(df):,} totales) "
+        f"— nivel: **{disagg_level}**."
     )
     st.dataframe(
         display_df,
@@ -470,6 +476,8 @@ def render_explorer_page() -> None:
         section_name=section_name,
         total_rows=len(df),
         filtered_rows=len(filtered_df),
+        aggregated_rows=len(aggregated_df),
+        disagg_level=disagg_level,
         selected_services=selected_services,
         selected_communes=selected_communes,
         selected_establishments=selected_establishments,
@@ -478,11 +486,11 @@ def render_explorer_page() -> None:
     )
 
     filtered_excel = dataframe_to_excel_bytes(
-        filtered_df,
+        aggregated_df,
         data_sheet_name=section_name,
         extra_sheets={"Contexto": context_df},
     )
-    filtered_csv = dataframe_to_csv_bytes(filtered_df)
+    filtered_csv = dataframe_to_csv_bytes(aggregated_df)
     section_excel = dataframe_to_excel_bytes(df, data_sheet_name=section_name)
 
     st.markdown("### Descarga")
@@ -512,7 +520,7 @@ def render_explorer_page() -> None:
             use_container_width=True,
         )
 
-    if filtered_df.empty:
+    if aggregated_df.empty:
         st.warning("Los filtros actuales no devuelven registros. Puedes ajustar la selección y volver a descargar.")
 
 
