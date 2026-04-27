@@ -1,0 +1,8 @@
+﻿rem,seccion,seccion_nombre,codigo_prestacion,detalle_prestacion,detalle_niveles,fila_excel
+P11,A,POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA),P11000150,Nº Total de personas con VIH/SIDA - Gestantes - Inicia TARV en este embarazo,Nº Total de personas con VIH/SIDA - Gestantes - Inicia TARV en este embarazo,12
+P11,A,POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA),P11000160,Nº Total de personas con VIH/SIDA - Gestantes - En TARV previa,Nº Total de personas con VIH/SIDA - Gestantes - En TARV previa,13
+P11,A,POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA),P11000170,Nº Total de personas con VIH/SIDA - No Gestantes - Con TARV,Nº Total de personas con VIH/SIDA - No Gestantes - Con TARV,14
+P11,A,POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA),P11000180,Nº Total de personas con VIH/SIDA - No Gestantes - Sin TARV,Nº Total de personas con VIH/SIDA - No Gestantes - Sin TARV,15
+P11,A,POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA),P11000190,N° Total de personas en TARV - Gestantes - Con carga viral <a 1000 copias,N° Total de personas en TARV - Gestantes - Con carga viral <a 1000 copias,16
+P11,A,POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA),P11000200,N° Total de personas en TARV - No Gestantes - Con carga viral <a 1000 copias,N° Total de personas en TARV - No Gestantes - Con carga viral <a 1000 copias,17
+P11,B,POBLACIÓN EN CONTROL POR COMERCIO SEXUAL (Uso exclusivo de Unidades Control Comercio Sexual),P11000140,Nº de personas / Comercio Sexual,Nº de personas / Comercio Sexual,22

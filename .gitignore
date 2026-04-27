@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+2025/__pycache__/
+2025/salida/establecimientos_deis_actual_tmp.xlsx
+
+1. REM VIH 2021 -2023/
+1. REM VIH 2021 -2023.zip
