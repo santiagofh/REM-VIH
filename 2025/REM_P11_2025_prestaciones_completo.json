@@ -4,18 +4,14 @@
     "anio": 2025,
     "archivo_fuente": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2025\\Diccionarios\\DICCIONARIO CODIGOS SP_25_V1.2.xlsm",
     "hoja": "P11",
-    "generado_en": "2026-04-21T15:40:21",
-    "nota_prestaciones": "detalle_prestacion concatena los niveles descriptivos de la fila del codigo, resolviendo celdas combinadas, separados por \" - \".",
-    "nota_columnas": "columna_detalle concatena encabezados aplicables; cuando el Excel omite el rotulo superior pero muestra edad + sexo, se infiere \"RANGO ETARIO Y SEXO\".",
-    "total_secciones": 2,
-    "total_prestaciones": 7,
-    "total_filas_columnas": 317,
-    "codigos_duplicados": []
+    "generado_en": "2026-05-08T12:18:32"
   },
   "secciones": {
     "A": {
       "nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
-      "fila_excel": 8,
+      "titulo": "SECCION A: POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
+      "fila_inicio": 8,
+      "fila_fin": 17,
       "codigos": [
         "P11000150",
         "P11000160",
@@ -23,14 +19,102 @@
         "P11000180",
         "P11000190",
         "P11000200"
-      ]
+      ],
+      "columnas": {
+        "COL01": "TOTAL - Ambos sexos",
+        "COL02": "TOTAL - Hombres",
+        "COL03": "TOTAL - Mujeres",
+        "COL04": "RANGO ETARIO Y SEXO - Menor 1 Año - Hombres",
+        "COL05": "RANGO ETARIO Y SEXO - Menor 1 Año - Mujeres",
+        "COL06": "RANGO ETARIO Y SEXO - 1 año - Hombres",
+        "COL07": "RANGO ETARIO Y SEXO - 1 año - Mujeres",
+        "COL08": "RANGO ETARIO Y SEXO - 2 a 4 años - Hombres",
+        "COL09": "RANGO ETARIO Y SEXO - 2 a 4 años - Mujeres",
+        "COL10": "RANGO ETARIO Y SEXO - 5 a 9 años - Hombres",
+        "COL11": "RANGO ETARIO Y SEXO - 5 a 9 años - Mujeres",
+        "COL12": "RANGO ETARIO Y SEXO - 10 a 14 años - Hombres",
+        "COL13": "RANGO ETARIO Y SEXO - 10 a 14 años - Mujeres",
+        "COL14": "RANGO ETARIO Y SEXO - 15 a 19 años - Hombres",
+        "COL15": "RANGO ETARIO Y SEXO - 15 a 19 años - Mujeres",
+        "COL16": "RANGO ETARIO Y SEXO - 20 a 24 años - Hombres",
+        "COL17": "RANGO ETARIO Y SEXO - 20 a 24 años - Mujeres",
+        "COL18": "RANGO ETARIO Y SEXO - 25 a 29 años - Hombres",
+        "COL19": "RANGO ETARIO Y SEXO - 25 a 29 años - Mujeres",
+        "COL20": "RANGO ETARIO Y SEXO - 30 a 34 años - Hombres",
+        "COL21": "RANGO ETARIO Y SEXO - 30 a 34 años - Mujeres",
+        "COL22": "RANGO ETARIO Y SEXO - 35 a 39 años - Hombres",
+        "COL23": "RANGO ETARIO Y SEXO - 35 a 39 años - Mujeres",
+        "COL24": "RANGO ETARIO Y SEXO - 40 a 44 años - Hombres",
+        "COL25": "RANGO ETARIO Y SEXO - 40 a 44 años - Mujeres",
+        "COL26": "RANGO ETARIO Y SEXO - 45 a 49 años - Hombres",
+        "COL27": "RANGO ETARIO Y SEXO - 45 a 49 años - Mujeres",
+        "COL28": "RANGO ETARIO Y SEXO - 50 a 54 años - Hombres",
+        "COL29": "RANGO ETARIO Y SEXO - 50 a 54 años - Mujeres",
+        "COL30": "RANGO ETARIO Y SEXO - 55 a 59 años - Hombres",
+        "COL31": "RANGO ETARIO Y SEXO - 55 a 59 años - Mujeres",
+        "COL32": "RANGO ETARIO Y SEXO - 60 a 64 años - Hombres",
+        "COL33": "RANGO ETARIO Y SEXO - 60 a 64 años - Mujeres",
+        "COL34": "RANGO ETARIO Y SEXO - 65 a 69 años - Hombres",
+        "COL35": "RANGO ETARIO Y SEXO - 65 a 69 años - Mujeres",
+        "COL36": "RANGO ETARIO Y SEXO - 70 a 74 años - Hombres",
+        "COL37": "RANGO ETARIO Y SEXO - 70 a 74 años - Mujeres",
+        "COL38": "RANGO ETARIO Y SEXO - 75 a 79 años - Hombres",
+        "COL39": "RANGO ETARIO Y SEXO - 75 a 79 años - Mujeres",
+        "COL40": "RANGO ETARIO Y SEXO - 80 y más años - Hombres",
+        "COL41": "RANGO ETARIO Y SEXO - 80 y más años - Mujeres",
+        "COL42": "TRANS - Masculino",
+        "COL43": "TRANS - Femenino",
+        "COL44": "Pueblos Originarios",
+        "COL45": "Migrantes",
+        "COL46": "Niños, Niñas, Adolescentes y Jóvenes SENAME",
+        "COL47": "Niños, Niñas, Adolescentes y Jóvenes Mejor Niñez"
+      }
     },
     "B": {
       "nombre": "POBLACIÓN EN CONTROL POR COMERCIO SEXUAL (Uso exclusivo de Unidades Control Comercio Sexual)",
-      "fila_excel": 18,
+      "titulo": "SECCION B: POBLACIÓN EN CONTROL POR COMERCIO SEXUAL (Uso exclusivo de Unidades Control Comercio Sexual)",
+      "fila_inicio": 18,
+      "fila_fin": 22,
       "codigos": [
         "P11000140"
-      ]
+      ],
+      "columnas": {
+        "COL01": "TOTAL - Ambos sexos",
+        "COL02": "TOTAL - Hombres",
+        "COL03": "TOTAL - Mujeres",
+        "COL04": "RANGO ETARIO Y SEXO - 15 a 19 años - Hombres",
+        "COL05": "RANGO ETARIO Y SEXO - 15 a 19 años - Mujeres",
+        "COL06": "RANGO ETARIO Y SEXO - 20 a 24 años - Hombres",
+        "COL07": "RANGO ETARIO Y SEXO - 20 a 24 años - Mujeres",
+        "COL08": "RANGO ETARIO Y SEXO - 25 a 29 años - Hombres",
+        "COL09": "RANGO ETARIO Y SEXO - 25 a 29 años - Mujeres",
+        "COL10": "RANGO ETARIO Y SEXO - 30 a 34 años - Hombres",
+        "COL11": "RANGO ETARIO Y SEXO - 30 a 34 años - Mujeres",
+        "COL12": "RANGO ETARIO Y SEXO - 35 a 39 años - Hombres",
+        "COL13": "RANGO ETARIO Y SEXO - 35 a 39 años - Mujeres",
+        "COL14": "RANGO ETARIO Y SEXO - 40 a 44 años - Hombres",
+        "COL15": "RANGO ETARIO Y SEXO - 40 a 44 años - Mujeres",
+        "COL16": "RANGO ETARIO Y SEXO - 45 a 49 años - Hombres",
+        "COL17": "RANGO ETARIO Y SEXO - 45 a 49 años - Mujeres",
+        "COL18": "RANGO ETARIO Y SEXO - 50 a 54 años - Hombres",
+        "COL19": "RANGO ETARIO Y SEXO - 50 a 54 años - Mujeres",
+        "COL20": "RANGO ETARIO Y SEXO - 55 a 59 años - Hombres",
+        "COL21": "RANGO ETARIO Y SEXO - 55 a 59 años - Mujeres",
+        "COL22": "RANGO ETARIO Y SEXO - 60 a 64 años - Hombres",
+        "COL23": "RANGO ETARIO Y SEXO - 60 a 64 años - Mujeres",
+        "COL24": "RANGO ETARIO Y SEXO - 65 a 69 años - Hombres",
+        "COL25": "RANGO ETARIO Y SEXO - 65 a 69 años - Mujeres",
+        "COL26": "RANGO ETARIO Y SEXO - 70 a 74 años - Hombres",
+        "COL27": "RANGO ETARIO Y SEXO - 70 a 74 años - Mujeres",
+        "COL28": "RANGO ETARIO Y SEXO - 75 a 79 años - Hombres",
+        "COL29": "RANGO ETARIO Y SEXO - 75 a 79 años - Mujeres",
+        "COL30": "RANGO ETARIO Y SEXO - 80 y más años - Hombres",
+        "COL31": "RANGO ETARIO Y SEXO - 80 y más años - Mujeres",
+        "COL32": "TRANS - Masculino",
+        "COL33": "TRANS - Femenino",
+        "COL34": "Pueblos Originarios",
+        "COL35": "Migrantes"
+      }
     }
   },
   "seccion_a_codigos": {
@@ -71,11 +155,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000150",
       "detalle_prestacion": "Nº Total de personas con VIH/SIDA - Gestantes - Inicia TARV en este embarazo",
-      "detalle_niveles": [
-        "Nº Total de personas con VIH/SIDA",
-        "Gestantes",
-        "Inicia TARV en este embarazo"
-      ],
+      "detalle_niveles": "Nº Total de personas con VIH/SIDA - Gestantes - Inicia TARV en este embarazo",
       "fila_excel": 12
     },
     "P11000160": {
@@ -84,11 +164,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000160",
       "detalle_prestacion": "Nº Total de personas con VIH/SIDA - Gestantes - En TARV previa",
-      "detalle_niveles": [
-        "Nº Total de personas con VIH/SIDA",
-        "Gestantes",
-        "En TARV previa"
-      ],
+      "detalle_niveles": "Nº Total de personas con VIH/SIDA - Gestantes - En TARV previa",
       "fila_excel": 13
     },
     "P11000170": {
@@ -97,11 +173,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000170",
       "detalle_prestacion": "Nº Total de personas con VIH/SIDA - No Gestantes - Con TARV",
-      "detalle_niveles": [
-        "Nº Total de personas con VIH/SIDA",
-        "No Gestantes",
-        "Con TARV"
-      ],
+      "detalle_niveles": "Nº Total de personas con VIH/SIDA - No Gestantes - Con TARV",
       "fila_excel": 14
     },
     "P11000180": {
@@ -110,11 +182,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000180",
       "detalle_prestacion": "Nº Total de personas con VIH/SIDA - No Gestantes - Sin TARV",
-      "detalle_niveles": [
-        "Nº Total de personas con VIH/SIDA",
-        "No Gestantes",
-        "Sin TARV"
-      ],
+      "detalle_niveles": "Nº Total de personas con VIH/SIDA - No Gestantes - Sin TARV",
       "fila_excel": 15
     },
     "P11000190": {
@@ -123,11 +191,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000190",
       "detalle_prestacion": "N° Total de personas en TARV - Gestantes - Con carga viral <a 1000 copias",
-      "detalle_niveles": [
-        "N° Total de personas en TARV",
-        "Gestantes",
-        "Con carga viral <a 1000 copias"
-      ],
+      "detalle_niveles": "N° Total de personas en TARV - Gestantes - Con carga viral <a 1000 copias",
       "fila_excel": 16
     },
     "P11000200": {
@@ -136,11 +200,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000200",
       "detalle_prestacion": "N° Total de personas en TARV - No Gestantes - Con carga viral <a 1000 copias",
-      "detalle_niveles": [
-        "N° Total de personas en TARV",
-        "No Gestantes",
-        "Con carga viral <a 1000 copias"
-      ],
+      "detalle_niveles": "N° Total de personas en TARV - No Gestantes - Con carga viral <a 1000 copias",
       "fila_excel": 17
     },
     "P11000140": {
@@ -149,9 +209,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL POR COMERCIO SEXUAL (Uso exclusivo de Unidades Control Comercio Sexual)",
       "codigo_prestacion": "P11000140",
       "detalle_prestacion": "Nº de personas / Comercio Sexual",
-      "detalle_niveles": [
-        "Nº de personas / Comercio Sexual"
-      ],
+      "detalle_niveles": "Nº de personas / Comercio Sexual",
       "fila_excel": 22
     }
   },
@@ -162,11 +220,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000150",
       "detalle_prestacion": "Nº Total de personas con VIH/SIDA - Gestantes - Inicia TARV en este embarazo",
-      "detalle_niveles": [
-        "Nº Total de personas con VIH/SIDA",
-        "Gestantes",
-        "Inicia TARV en este embarazo"
-      ],
+      "detalle_niveles": "Nº Total de personas con VIH/SIDA - Gestantes - Inicia TARV en este embarazo",
       "fila_excel": 12
     },
     {
@@ -175,11 +229,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000160",
       "detalle_prestacion": "Nº Total de personas con VIH/SIDA - Gestantes - En TARV previa",
-      "detalle_niveles": [
-        "Nº Total de personas con VIH/SIDA",
-        "Gestantes",
-        "En TARV previa"
-      ],
+      "detalle_niveles": "Nº Total de personas con VIH/SIDA - Gestantes - En TARV previa",
       "fila_excel": 13
     },
     {
@@ -188,11 +238,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000170",
       "detalle_prestacion": "Nº Total de personas con VIH/SIDA - No Gestantes - Con TARV",
-      "detalle_niveles": [
-        "Nº Total de personas con VIH/SIDA",
-        "No Gestantes",
-        "Con TARV"
-      ],
+      "detalle_niveles": "Nº Total de personas con VIH/SIDA - No Gestantes - Con TARV",
       "fila_excel": 14
     },
     {
@@ -201,11 +247,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000180",
       "detalle_prestacion": "Nº Total de personas con VIH/SIDA - No Gestantes - Sin TARV",
-      "detalle_niveles": [
-        "Nº Total de personas con VIH/SIDA",
-        "No Gestantes",
-        "Sin TARV"
-      ],
+      "detalle_niveles": "Nº Total de personas con VIH/SIDA - No Gestantes - Sin TARV",
       "fila_excel": 15
     },
     {
@@ -214,11 +256,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000190",
       "detalle_prestacion": "N° Total de personas en TARV - Gestantes - Con carga viral <a 1000 copias",
-      "detalle_niveles": [
-        "N° Total de personas en TARV",
-        "Gestantes",
-        "Con carga viral <a 1000 copias"
-      ],
+      "detalle_niveles": "N° Total de personas en TARV - Gestantes - Con carga viral <a 1000 copias",
       "fila_excel": 16
     },
     {
@@ -227,11 +265,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL DEL PROGRAMA DE VIH/SIDA (Uso exclusivo Centros de Atención VIH-SIDA)",
       "codigo_prestacion": "P11000200",
       "detalle_prestacion": "N° Total de personas en TARV - No Gestantes - Con carga viral <a 1000 copias",
-      "detalle_niveles": [
-        "N° Total de personas en TARV",
-        "No Gestantes",
-        "Con carga viral <a 1000 copias"
-      ],
+      "detalle_niveles": "N° Total de personas en TARV - No Gestantes - Con carga viral <a 1000 copias",
       "fila_excel": 17
     },
     {
@@ -240,9 +274,7 @@
       "seccion_nombre": "POBLACIÓN EN CONTROL POR COMERCIO SEXUAL (Uso exclusivo de Unidades Control Comercio Sexual)",
       "codigo_prestacion": "P11000140",
       "detalle_prestacion": "Nº de personas / Comercio Sexual",
-      "detalle_niveles": [
-        "Nº de personas / Comercio Sexual"
-      ],
+      "detalle_niveles": "Nº de personas / Comercio Sexual",
       "fila_excel": 22
     }
   ]

@@ -1,0 +1,110 @@
+﻿rem,seccion,seccion_nombre,codigo_prestacion,detalle_prestacion,detalle_niveles,fila_excel
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1010100,D . I . U T con Cobre,D . I . U T con Cobre,11
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1060124,D . I . U con Levonorgestrel - D . I . U T con Cobre,D . I . U con Levonorgestrel - D . I . U T con Cobre,12
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1010201,Hormonal - Oral Combinado,Hormonal - Oral Combinado,13
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1010202,Hormonal - Oral Progestágeno,Hormonal - Oral Progestágeno,14
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1010203,Hormonal - Inyectable Combinado,Hormonal - Inyectable Combinado,15
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1040508,Hormonal - Inyectable Progestágeno,Hormonal - Inyectable Progestágeno,16
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1040500,Hormonal - Implante Etonogestrel (3 años),Hormonal - Implante Etonogestrel (3 años),17
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1200190,Hormonal - Implante Levonorgestrel (5 años),Hormonal - Implante Levonorgestrel (5 años),18
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1600105,Hormonal - Anillo Vaginal,Hormonal - Anillo Vaginal,19
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1010301,Solo Preservativo MAC - Mujer,Solo Preservativo MAC - Mujer,20
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1010302,Solo Preservativo MAC - Hombres,Solo Preservativo MAC - Hombres,21
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1200240,Esterilización Quirúrgica - Mujer,Esterilización Quirúrgica - Mujer,22
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1200250,Esterilización Quirúrgica - Hombres,Esterilización Quirúrgica - Hombres,23
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1700100,Otro,Otro,24
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1060010,Mujeres en control con enfermedad cardiovascular (DM-HTA),Mujeres en control con enfermedad cardiovascular (DM-HTA),26
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1600106,Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En APS,Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En APS,27
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1600107,Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En Extrasistema,Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En Extrasistema,28
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1600108,Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En APS,Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En APS,29
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1600109,Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En Extrasistema,Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En Extrasistema,30
+P1,A,POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD,P1060090,Método de Regulación de Fertilidad más Preservativo,Método de Regulación de Fertilidad más Preservativo,31
+P1,A.1,POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL,P1200200,Preservativo/Práctica Sexual segura - Mujer,Preservativo/Práctica Sexual segura - Mujer,35
+P1,A.1,POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL,P1200210,Preservativo/Práctica Sexual segura - Hombres,Preservativo/Práctica Sexual segura - Hombres,36
+P1,A.1,POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL,P1200220,Lubricantes - Mujer,Lubricantes - Mujer,37
+P1,A.1,POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL,P1200230,Lubricantes - Hombres,Lubricantes - Hombres,38
+P1,A.1,POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL,P1200350,Condon Femenino,Condon Femenino,39
+P1,A.1,POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL,P1200270,Gestantes que reciben preservativo,Gestantes que reciben preservativo,40
+P1,B,GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL,P1020100,Menos de 15 años,Menos de 15 años,44
+P1,B,GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL,P1020200,15 a 19 años,15 a 19 años,45
+P1,B,GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL,P1040501,20 a 24 años,20 a 24 años,46
+P1,B,GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL,P1060100,25 a 29 años,25 a 29 años,47
+P1,B,GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL,P1060101,30 a 34 años,30 a 34 años,48
+P1,B,GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL,P1060102,35 a 39 años,35 a 39 años,49
+P1,B,GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL,P1060103,40 a 44 años,40 a 44 años,50
+P1,B,GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL,P1060104,45 a 49 años,45 a 49 años,51
+P1,B,GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL,P1060105,50 a 54 años,50 a 54 años,52
+P1,C,GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE,P1040502,1 Visita,1 Visita,57
+P1,C,GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE,P1040503,2 Visitas,2 Visitas,58
+P1,C,GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE,P1040504,3 Visitas,3 Visitas,59
+P1,C,GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE,P1040505,4 y más Visitas,4 y más Visitas,60
+P1,D,"GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",P1030101,Gestantes en Control (Información a la fecha de corte) - Obesa,Gestantes en Control (Información a la fecha de corte) - Obesa,65
+P1,D,"GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",P1030102,Gestantes en Control (Información a la fecha de corte) - Sobrepeso,Gestantes en Control (Información a la fecha de corte) - Sobrepeso,66
+P1,D,"GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",P1030103,Gestantes en Control (Información a la fecha de corte) - Normal,Gestantes en Control (Información a la fecha de corte) - Normal,67
+P1,D,"GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",P1030104,Gestantes en Control (Información a la fecha de corte) - Bajo Peso,Gestantes en Control (Información a la fecha de corte) - Bajo Peso,68
+P1,D,"GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",P1030201,Control al 8º mes Post-Parto (Información del semestre) - Obesa,Control al 8º mes Post-Parto (Información del semestre) - Obesa,70
+P1,D,"GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",P1030202,Control al 8º mes Post-Parto (Información del semestre) - Sobrepeso,Control al 8º mes Post-Parto (Información del semestre) - Sobrepeso,71
+P1,D,"GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",P1030203,Control al 8º mes Post-Parto (Información del semestre) - Normal,Control al 8º mes Post-Parto (Información del semestre) - Normal,72
+P1,D,"GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",P1030204,Control al 8º mes Post-Parto (Información del semestre) - Bajo Peso,Control al 8º mes Post-Parto (Información del semestre) - Bajo Peso,73
+P1,E,GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL,P1050100,Gestantes con malnutrición por déficit (bajo peso),Gestantes con malnutrición por déficit (bajo peso),77
+P1,E,GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL,P1050101,Gestantes con malnutrición por exceso - Obesa,Gestantes con malnutrición por exceso - Obesa,78
+P1,E,GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL,P1050102,Gestantes con malnutrición por exceso - Sobrepeso,Gestantes con malnutrición por exceso - Sobrepeso,79
+P1,E,GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL,P1050103,En 3º mes post parto,En 3º mes post parto,80
+P1,E,GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL,P1050104,En 6º mes post parto,En 6º mes post parto,81
+P1,F,MUJERES EN CONTROL DE CLIMATERIO,P1030301,Población en Control,Población en Control,84
+P1,F,MUJERES EN CONTROL DE CLIMATERIO,P1060040,Mujeres con pauta aplicada MRS*,Mujeres con pauta aplicada MRS*,85
+P1,F,MUJERES EN CONTROL DE CLIMATERIO,P1700101,Mujeres con MRS al ingreso,Mujeres con MRS al ingreso,86
+P1,F,MUJERES EN CONTROL DE CLIMATERIO,P1700102,Mujeres con MRS en control,Mujeres con MRS en control,87
+P1,F,MUJERES EN CONTROL DE CLIMATERIO,P1060050,Mujeres con MRS elevado*,Mujeres con MRS elevado*,88
+P1,F,MUJERES EN CONTROL DE CLIMATERIO,P1060060,Mujeres con aplicación de terapia hormonal de la menopausia según MRS*,Mujeres con aplicación de terapia hormonal de la menopausia según MRS*,89
+P1,F,MUJERES EN CONTROL DE CLIMATERIO,P1700103,"Mujeres que disminuyeron puntaje de MRS o se mantienen en MRS bajo, según MRS de control","Mujeres que disminuyeron puntaje de MRS o se mantienen en MRS bajo, según MRS de control",90
+P1,F,MUJERES EN CONTROL DE CLIMATERIO,P1200340,Mujeres que asisten a Talleres Educativos,Mujeres que asisten a Talleres Educativos,91
+P1,F.1,POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA,P1200280,Estradiol Micronizado 1mg.,Estradiol Micronizado 1mg.,96
+P1,F.1,POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA,P1200290,Estradiol Gel - Estradiol Micronizado 1mg.,Estradiol Gel - Estradiol Micronizado 1mg.,97
+P1,F.1,POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA,P1200300,Progesterona Micronizada 100mg.,Progesterona Micronizada 100mg.,98
+P1,F.1,POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA,P1200310,Progesterona Micronizada 200mg.,Progesterona Micronizada 200mg.,99
+P1,F.1,POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA,P1200320,Nomegestrol 5mg. comp.,Nomegestrol 5mg. comp.,100
+P1,F.1,POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA,P1200330,"Tibolona 2,5mg. comp.","Tibolona 2,5mg. comp.",101
+P1,F.1,POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA,P1600110,Terapia Dual,Terapia Dual,102
+P1,G,GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE),P1060106,Menor de 15,Menor de 15,106
+P1,G,GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE),P1060107,15 - 19,15 - 19,107
+P1,G,GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE),P1060108,20 - 24,20 - 24,108
+P1,G,GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE),P1060109,25 - 29,25 - 29,109
+P1,G,GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE),P1060110,30 - 34,30 - 34,110
+P1,G,GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE),P1060111,35 - 39,35 - 39,111
+P1,G,GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE),P1060112,40 - 44,40 - 44,112
+P1,G,GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE),P1060113,45 - 49,45 - 49,113
+P1,G,GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE),P1060114,50 - 54,50 - 54,114
+P1,G,GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE),P1700104,Gestantes con Ecografías del extrasistema,Gestantes con Ecografías del extrasistema,116
+P1,H,MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL,P1600100,Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Obesa,Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Obesa,120
+P1,H,MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL,P1600101,Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Sobrepeso,Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Sobrepeso,121
+P1,H,MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL,P1600102,Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Normal,Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Normal,122
+P1,H,MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL,P1600103,Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Bajo peso,Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Bajo peso,123
+P1,I,"GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",P1600111,Menor de 15,Menor de 15,128
+P1,I,"GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",P1600112,15 - 19,15 - 19,129
+P1,I,"GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",P1600113,20 - 24,20 - 24,130
+P1,I,"GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",P1600114,25 - 29,25 - 29,131
+P1,I,"GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",P1600115,30 - 34,30 - 34,132
+P1,I,"GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",P1600116,35 - 39,35 - 39,133
+P1,I,"GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",P1600117,40 - 44,40 - 44,134
+P1,I,"GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",P1600118,45 - 49,45 - 49,135
+P1,I,"GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",P1600119,50 - 54,50 - 54,136
+P1,I,"GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",P1600120,Gestantes con Tamizajes resultado pendiente,Gestantes con Tamizajes resultado pendiente,138
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1030303,Preeclampsia (PE),Preeclampsia (PE),142
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060070,Sindrome Hipertensivo del Embarazo (SHE),Sindrome Hipertensivo del Embarazo (SHE),143
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1030304,Factores de riesgo y condicionantes de Parto Prematuro,Factores de riesgo y condicionantes de Parto Prematuro,144
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1030401,Retardo Crecimiento Intrauterino (RCIU),Retardo Crecimiento Intrauterino (RCIU),145
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1040506,Sífilis,Sífilis,146
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1040507,VIH,VIH,147
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060115,Diabetes Pre Gestacional,Diabetes Pre Gestacional,148
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060116,Diabetes Gestacional,Diabetes Gestacional,149
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1030403,Cesárea anterior,Cesárea anterior,150
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060080,Malformación Congénita,Malformación Congénita,151
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060117,Anemia,Anemia,152
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060118,Cardiopatías,Cardiopatías,153
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060119,Pielonefritis,Pielonefritis,154
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060120,Rh(-) sensibilizada,Rh(-) sensibilizada,155
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060121,Placenta previa,Placenta previa,156
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060122,Chagas,Chagas,157
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1060123,Colestasia Intrahépatica de Embarazo,Colestasia Intrahépatica de Embarazo,158
+P1,J,POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO,P1030404,Otras patologías del embarazo,Otras patologías del embarazo,159

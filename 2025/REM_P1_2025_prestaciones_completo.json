@@ -1,0 +1,2669 @@
+{
+  "metadata": {
+    "rem": "P1",
+    "anio": 2025,
+    "archivo_fuente": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2025\\Diccionarios\\DICCIONARIO CODIGOS SP_25_V1.2.xlsm",
+    "hoja": "P1",
+    "generado_en": "2026-05-08T12:18:14"
+  },
+  "secciones": {
+    "A": {
+      "nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "titulo": "SECCION A: POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "fila_inicio": 8,
+      "fila_fin": 31,
+      "codigos": [
+        "P1010100",
+        "P1060124",
+        "P1010201",
+        "P1010202",
+        "P1010203",
+        "P1040508",
+        "P1040500",
+        "P1200190",
+        "P1600105",
+        "P1010301",
+        "P1010302",
+        "P1200240",
+        "P1200250",
+        "P1700100",
+        "P1060010",
+        "P1600106",
+        "P1600107",
+        "P1600108",
+        "P1600109",
+        "P1060090"
+      ],
+      "columnas": {
+        "COL01": "TOTAL",
+        "COL02": "RANGO ETARIO - Menor de 15 años",
+        "COL03": "RANGO ETARIO - 15 a 19 años",
+        "COL04": "RANGO ETARIO - 20 a 24 años",
+        "COL05": "RANGO ETARIO - 25 a 29 años",
+        "COL06": "RANGO ETARIO - 30 a 34 años",
+        "COL07": "RANGO ETARIO - 35 a 39 años",
+        "COL08": "RANGO ETARIO - 40 a 44 años",
+        "COL09": "RANGO ETARIO - 45 a 49 años",
+        "COL10": "RANGO ETARIO - 50 a 54 años",
+        "COL11": "RANGO ETARIO - 55 a 59 años",
+        "COL12": "RANGO ETARIO - 60 a 64 años",
+        "COL13": "RANGO ETARIO - 65 a 69 años",
+        "COL14": "RANGO ETARIO - 70 y más años",
+        "COL15": "Pueblos Originarios",
+        "COL16": "Migrantes - Menor de 20 años",
+        "COL17": "Migrantes - 20 años y más",
+        "COL18": "PV-VIH (personas viviendo con VIH)",
+        "COL19": "Identidad de Género - Trans Masculino",
+        "COL20": "Identidad de Género - Trans Femenino",
+        "COL21": "Identidad de Género - No Binarie",
+        "COL22": "Personas con Discapacidad"
+      }
+    },
+    "A.1": {
+      "nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "titulo": "SECCION A.1: POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "fila_inicio": 32,
+      "fila_fin": 40,
+      "codigos": [
+        "P1200200",
+        "P1200210",
+        "P1200220",
+        "P1200230",
+        "P1200350",
+        "P1200270"
+      ],
+      "columnas": {
+        "COL01": "TOTAL",
+        "COL02": "RANGO ETARIO - Menor de 15 años",
+        "COL03": "RANGO ETARIO - 15 a 19 años",
+        "COL04": "RANGO ETARIO - 20 a 24 años",
+        "COL05": "RANGO ETARIO - 25 a 29 años",
+        "COL06": "RANGO ETARIO - 30 a 34 años",
+        "COL07": "RANGO ETARIO - 35 a 39 años",
+        "COL08": "RANGO ETARIO - 40 a 44 años",
+        "COL09": "RANGO ETARIO - 45 a 49 años",
+        "COL10": "RANGO ETARIO - 50 a 54 años",
+        "COL11": "RANGO ETARIO - 55 a 59 años",
+        "COL12": "RANGO ETARIO - 60 a 64 años",
+        "COL13": "RANGO ETARIO - 65 a 69 años",
+        "COL14": "RANGO ETARIO - 70 y más años",
+        "COL15": "Pueblos Originarios",
+        "COL16": "Migrantes - Menor de 20 años",
+        "COL17": "Migrantes - 20 años y más",
+        "COL18": "PV-VIH (personas viviendo con VIH)",
+        "COL19": "Identidad de Género - Trans Masculino",
+        "COL20": "Identidad de Género - Trans Femenino",
+        "COL21": "Identidad de Género - No Binarie",
+        "COL22": "Personas con Discapacidad"
+      }
+    },
+    "B": {
+      "nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "titulo": "SECCION B: GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "fila_inicio": 41,
+      "fila_fin": 52,
+      "codigos": [
+        "P1020100",
+        "P1020200",
+        "P1040501",
+        "P1060100",
+        "P1060101",
+        "P1060102",
+        "P1060103",
+        "P1060104",
+        "P1060105"
+      ],
+      "columnas": {
+        "COL01": "Total de Gestantes en Control",
+        "COL02": "En Riesgo Psicosocial",
+        "COL03": "Con 3 o más Riesgos Psicosociales",
+        "COL04": "Que presentan Violencia de género",
+        "COL05": "Gestantes que presentan ARO",
+        "COL06": "Pueblos Originarios",
+        "COL07": "Migrantes",
+        "COL08": "Identidad de Género - Trans Masculino",
+        "COL09": "Identidad de Género - No Binarie",
+        "COL10": "Personas con Discapacidad"
+      }
+    },
+    "C": {
+      "nombre": "GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE",
+      "titulo": "SECCION C: GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE",
+      "fila_inicio": 54,
+      "fila_fin": 60,
+      "codigos": [
+        "P1040502",
+        "P1040503",
+        "P1040504",
+        "P1040505"
+      ],
+      "columnas": {
+        "COL01": "N° Gestantes con VDI",
+        "COL02": "TOTAL de Visitas",
+        "COL03": "N° Gestantes 3 ó más riesgos con VDI"
+      }
+    },
+    "D": {
+      "nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "titulo": "SECCION D: GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "fila_inicio": 62,
+      "fila_fin": 73,
+      "codigos": [
+        "P1030101",
+        "P1030102",
+        "P1030103",
+        "P1030104",
+        "P1030201",
+        "P1030202",
+        "P1030203",
+        "P1030204"
+      ],
+      "columnas": {
+        "COL01": "TOTAL",
+        "COL02": "RANGO ETARIO - Menos 15 años",
+        "COL03": "RANGO ETARIO - 15 a 19 años",
+        "COL04": "RANGO ETARIO - 20 a 24 años",
+        "COL05": "RANGO ETARIO - 25 a 29 años",
+        "COL06": "RANGO ETARIO - 30 a 34 años",
+        "COL07": "RANGO ETARIO - 35 a 39 años",
+        "COL08": "RANGO ETARIO - 40 a 44 años",
+        "COL09": "RANGO ETARIO - 45 a 49 años",
+        "COL10": "RANGO ETARIO - 50 a 54 años"
+      }
+    },
+    "E": {
+      "nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "titulo": "SECCION E: GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "fila_inicio": 75,
+      "fila_fin": 81,
+      "codigos": [
+        "P1050100",
+        "P1050101",
+        "P1050102",
+        "P1050103",
+        "P1050104"
+      ],
+      "columnas": {
+        "COL01": "TOTAL"
+      }
+    },
+    "F": {
+      "nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "titulo": "SECCION F: MUJERES EN CONTROL DE CLIMATERIO",
+      "fila_inicio": 82,
+      "fila_fin": 91,
+      "codigos": [
+        "P1030301",
+        "P1060040",
+        "P1700101",
+        "P1700102",
+        "P1060050",
+        "P1060060",
+        "P1700103",
+        "P1200340"
+      ],
+      "columnas": {
+        "COL01": "Menor de 45 años",
+        "COL02": "45 a 64 años",
+        "COL03": "Trans Masculino",
+        "COL04": "Pueblos Originarios",
+        "COL05": "Migrantes"
+      }
+    },
+    "F.1": {
+      "nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "titulo": "SECCION F.1: POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "fila_inicio": 93,
+      "fila_fin": 102,
+      "codigos": [
+        "P1200280",
+        "P1200290",
+        "P1200300",
+        "P1200310",
+        "P1200320",
+        "P1200330",
+        "P1600110"
+      ],
+      "columnas": {
+        "COL01": "TOTAL",
+        "COL02": "RANGO ETARIO - Menor de 45 años",
+        "COL03": "RANGO ETARIO - 45 a 49 años",
+        "COL04": "RANGO ETARIO - 50 a 54 años",
+        "COL05": "RANGO ETARIO - 55 a 60 años",
+        "COL06": "RANGO ETARIO - 60 a 64 años",
+        "COL07": "Pueblos Originarios",
+        "COL08": "Migrantes"
+      }
+    },
+    "G": {
+      "nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "titulo": "SECCION G: GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "fila_inicio": 103,
+      "fila_fin": 116,
+      "codigos": [
+        "P1060106",
+        "P1060107",
+        "P1060108",
+        "P1060109",
+        "P1060110",
+        "P1060111",
+        "P1060112",
+        "P1060113",
+        "P1060114",
+        "P1700104"
+      ],
+      "columnas": {
+        "COL01": "Primer trimestre - <11 semanas",
+        "COL02": "Primer trimestre - 11- 13+6 semanas",
+        "COL03": "Segundo trimestre 22-24 semanas",
+        "COL04": "Tercer trimestre 30-34 semanas"
+      }
+    },
+    "H": {
+      "nombre": "MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL",
+      "titulo": "SECCION H: MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL",
+      "fila_inicio": 117,
+      "fila_fin": 123,
+      "codigos": [
+        "P1600100",
+        "P1600101",
+        "P1600102",
+        "P1600103"
+      ],
+      "columnas": {
+        "COL01": "TOTAL",
+        "COL02": "RANGO ETARIO - Menos 15 años",
+        "COL03": "RANGO ETARIO - 15 a 19 años",
+        "COL04": "RANGO ETARIO - 20 a 24 años",
+        "COL05": "RANGO ETARIO - 25 a 29 años",
+        "COL06": "RANGO ETARIO - 30 a 34 años",
+        "COL07": "RANGO ETARIO - 35 a 39 años",
+        "COL08": "RANGO ETARIO - 40 a 44 años",
+        "COL09": "RANGO ETARIO - 45 a 49 años",
+        "COL10": "RANGO ETARIO - 50 a 54 años"
+      }
+    },
+    "I": {
+      "nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "titulo": "SECCION I: GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "fila_inicio": 125,
+      "fila_fin": 138,
+      "codigos": [
+        "P1600111",
+        "P1600112",
+        "P1600113",
+        "P1600114",
+        "P1600115",
+        "P1600116",
+        "P1600117",
+        "P1600118",
+        "P1600119",
+        "P1600120"
+      ],
+      "columnas": {
+        "COL01": "Total Gestantes bajo control",
+        "COL02": "Gestantes en control con resultado 1° VIH",
+        "COL03": "Gestantes en control con resultado 1° Tamizaje Sífilis",
+        "COL04": "Total Gestantes en Control >34 SEM",
+        "COL05": "Gestantes en control con resultado 2° VIH",
+        "COL06": "Gestantes en control con resultado Tamizaje Sífilis 3° trimestre gestación",
+        "COL07": "Pueblos Originarios - Gestantes en control con resultado 1° VIH",
+        "COL08": "Pueblos Originarios - Gestantes en control con resultado 1° Tamizaje Sífilis",
+        "COL09": "Migrantes - Gestantes en control con resultado 1° VIH",
+        "COL10": "Migrantes - Gestantes en control con resultado 1° Tamizaje Sífilis"
+      }
+    },
+    "J": {
+      "nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "titulo": "SECCIÓN J: POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "fila_inicio": 140,
+      "fila_fin": 159,
+      "codigos": [
+        "P1030303",
+        "P1060070",
+        "P1030304",
+        "P1030401",
+        "P1040506",
+        "P1040507",
+        "P1060115",
+        "P1060116",
+        "P1030403",
+        "P1060080",
+        "P1060117",
+        "P1060118",
+        "P1060119",
+        "P1060120",
+        "P1060121",
+        "P1060122",
+        "P1060123",
+        "P1030404"
+      ],
+      "columnas": {
+        "COL01": "TOTAL"
+      }
+    }
+  },
+  "seccion_a_codigos": {
+    "A": [
+      "P1010100",
+      "P1060124",
+      "P1010201",
+      "P1010202",
+      "P1010203",
+      "P1040508",
+      "P1040500",
+      "P1200190",
+      "P1600105",
+      "P1010301",
+      "P1010302",
+      "P1200240",
+      "P1200250",
+      "P1700100",
+      "P1060010",
+      "P1600106",
+      "P1600107",
+      "P1600108",
+      "P1600109",
+      "P1060090"
+    ],
+    "A.1": [
+      "P1200200",
+      "P1200210",
+      "P1200220",
+      "P1200230",
+      "P1200350",
+      "P1200270"
+    ],
+    "B": [
+      "P1020100",
+      "P1020200",
+      "P1040501",
+      "P1060100",
+      "P1060101",
+      "P1060102",
+      "P1060103",
+      "P1060104",
+      "P1060105"
+    ],
+    "C": [
+      "P1040502",
+      "P1040503",
+      "P1040504",
+      "P1040505"
+    ],
+    "D": [
+      "P1030101",
+      "P1030102",
+      "P1030103",
+      "P1030104",
+      "P1030201",
+      "P1030202",
+      "P1030203",
+      "P1030204"
+    ],
+    "E": [
+      "P1050100",
+      "P1050101",
+      "P1050102",
+      "P1050103",
+      "P1050104"
+    ],
+    "F": [
+      "P1030301",
+      "P1060040",
+      "P1700101",
+      "P1700102",
+      "P1060050",
+      "P1060060",
+      "P1700103",
+      "P1200340"
+    ],
+    "F.1": [
+      "P1200280",
+      "P1200290",
+      "P1200300",
+      "P1200310",
+      "P1200320",
+      "P1200330",
+      "P1600110"
+    ],
+    "G": [
+      "P1060106",
+      "P1060107",
+      "P1060108",
+      "P1060109",
+      "P1060110",
+      "P1060111",
+      "P1060112",
+      "P1060113",
+      "P1060114",
+      "P1700104"
+    ],
+    "H": [
+      "P1600100",
+      "P1600101",
+      "P1600102",
+      "P1600103"
+    ],
+    "I": [
+      "P1600111",
+      "P1600112",
+      "P1600113",
+      "P1600114",
+      "P1600115",
+      "P1600116",
+      "P1600117",
+      "P1600118",
+      "P1600119",
+      "P1600120"
+    ],
+    "J": [
+      "P1030303",
+      "P1060070",
+      "P1030304",
+      "P1030401",
+      "P1040506",
+      "P1040507",
+      "P1060115",
+      "P1060116",
+      "P1030403",
+      "P1060080",
+      "P1060117",
+      "P1060118",
+      "P1060119",
+      "P1060120",
+      "P1060121",
+      "P1060122",
+      "P1060123",
+      "P1030404"
+    ]
+  },
+  "codigo_a_detalle": {
+    "P1010100": "D . I . U T con Cobre",
+    "P1060124": "D . I . U con Levonorgestrel - D . I . U T con Cobre",
+    "P1010201": "Hormonal - Oral Combinado",
+    "P1010202": "Hormonal - Oral Progestágeno",
+    "P1010203": "Hormonal - Inyectable Combinado",
+    "P1040508": "Hormonal - Inyectable Progestágeno",
+    "P1040500": "Hormonal - Implante Etonogestrel (3 años)",
+    "P1200190": "Hormonal - Implante Levonorgestrel (5 años)",
+    "P1600105": "Hormonal - Anillo Vaginal",
+    "P1010301": "Solo Preservativo MAC - Mujer",
+    "P1010302": "Solo Preservativo MAC - Hombres",
+    "P1200240": "Esterilización Quirúrgica - Mujer",
+    "P1200250": "Esterilización Quirúrgica - Hombres",
+    "P1700100": "Otro",
+    "P1060010": "Mujeres en control con enfermedad cardiovascular (DM-HTA)",
+    "P1600106": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En APS",
+    "P1600107": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En Extrasistema",
+    "P1600108": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En APS",
+    "P1600109": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En Extrasistema",
+    "P1060090": "Método de Regulación de Fertilidad más Preservativo",
+    "P1200200": "Preservativo/Práctica Sexual segura - Mujer",
+    "P1200210": "Preservativo/Práctica Sexual segura - Hombres",
+    "P1200220": "Lubricantes - Mujer",
+    "P1200230": "Lubricantes - Hombres",
+    "P1200350": "Condon Femenino",
+    "P1200270": "Gestantes que reciben preservativo",
+    "P1020100": "Menos de 15 años",
+    "P1020200": "15 a 19 años",
+    "P1040501": "20 a 24 años",
+    "P1060100": "25 a 29 años",
+    "P1060101": "30 a 34 años",
+    "P1060102": "35 a 39 años",
+    "P1060103": "40 a 44 años",
+    "P1060104": "45 a 49 años",
+    "P1060105": "50 a 54 años",
+    "P1040502": "1 Visita",
+    "P1040503": "2 Visitas",
+    "P1040504": "3 Visitas",
+    "P1040505": "4 y más Visitas",
+    "P1030101": "Gestantes en Control (Información a la fecha de corte) - Obesa",
+    "P1030102": "Gestantes en Control (Información a la fecha de corte) - Sobrepeso",
+    "P1030103": "Gestantes en Control (Información a la fecha de corte) - Normal",
+    "P1030104": "Gestantes en Control (Información a la fecha de corte) - Bajo Peso",
+    "P1030201": "Control al 8º mes Post-Parto (Información del semestre) - Obesa",
+    "P1030202": "Control al 8º mes Post-Parto (Información del semestre) - Sobrepeso",
+    "P1030203": "Control al 8º mes Post-Parto (Información del semestre) - Normal",
+    "P1030204": "Control al 8º mes Post-Parto (Información del semestre) - Bajo Peso",
+    "P1050100": "Gestantes con malnutrición por déficit (bajo peso)",
+    "P1050101": "Gestantes con malnutrición por exceso - Obesa",
+    "P1050102": "Gestantes con malnutrición por exceso - Sobrepeso",
+    "P1050103": "En 3º mes post parto",
+    "P1050104": "En 6º mes post parto",
+    "P1030301": "Población en Control",
+    "P1060040": "Mujeres con pauta aplicada MRS*",
+    "P1700101": "Mujeres con MRS al ingreso",
+    "P1700102": "Mujeres con MRS en control",
+    "P1060050": "Mujeres con MRS elevado*",
+    "P1060060": "Mujeres con aplicación de terapia hormonal de la menopausia según MRS*",
+    "P1700103": "Mujeres que disminuyeron puntaje de MRS o se mantienen en MRS bajo, según MRS de control",
+    "P1200340": "Mujeres que asisten a Talleres Educativos",
+    "P1200280": "Estradiol Micronizado 1mg.",
+    "P1200290": "Estradiol Gel - Estradiol Micronizado 1mg.",
+    "P1200300": "Progesterona Micronizada 100mg.",
+    "P1200310": "Progesterona Micronizada 200mg.",
+    "P1200320": "Nomegestrol 5mg. comp.",
+    "P1200330": "Tibolona 2,5mg. comp.",
+    "P1600110": "Terapia Dual",
+    "P1060106": "Menor de 15",
+    "P1060107": "15 - 19",
+    "P1060108": "20 - 24",
+    "P1060109": "25 - 29",
+    "P1060110": "30 - 34",
+    "P1060111": "35 - 39",
+    "P1060112": "40 - 44",
+    "P1060113": "45 - 49",
+    "P1060114": "50 - 54",
+    "P1700104": "Gestantes con Ecografías del extrasistema",
+    "P1600100": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Obesa",
+    "P1600101": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Sobrepeso",
+    "P1600102": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Normal",
+    "P1600103": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Bajo peso",
+    "P1600111": "Menor de 15",
+    "P1600112": "15 - 19",
+    "P1600113": "20 - 24",
+    "P1600114": "25 - 29",
+    "P1600115": "30 - 34",
+    "P1600116": "35 - 39",
+    "P1600117": "40 - 44",
+    "P1600118": "45 - 49",
+    "P1600119": "50 - 54",
+    "P1600120": "Gestantes con Tamizajes resultado pendiente",
+    "P1030303": "Preeclampsia (PE)",
+    "P1060070": "Sindrome Hipertensivo del Embarazo (SHE)",
+    "P1030304": "Factores de riesgo y condicionantes de Parto Prematuro",
+    "P1030401": "Retardo Crecimiento Intrauterino (RCIU)",
+    "P1040506": "Sífilis",
+    "P1040507": "VIH",
+    "P1060115": "Diabetes Pre Gestacional",
+    "P1060116": "Diabetes Gestacional",
+    "P1030403": "Cesárea anterior",
+    "P1060080": "Malformación Congénita",
+    "P1060117": "Anemia",
+    "P1060118": "Cardiopatías",
+    "P1060119": "Pielonefritis",
+    "P1060120": "Rh(-) sensibilizada",
+    "P1060121": "Placenta previa",
+    "P1060122": "Chagas",
+    "P1060123": "Colestasia Intrahépatica de Embarazo",
+    "P1030404": "Otras patologías del embarazo"
+  },
+  "codigo_a_seccion": {
+    "P1010100": "A",
+    "P1060124": "A",
+    "P1010201": "A",
+    "P1010202": "A",
+    "P1010203": "A",
+    "P1040508": "A",
+    "P1040500": "A",
+    "P1200190": "A",
+    "P1600105": "A",
+    "P1010301": "A",
+    "P1010302": "A",
+    "P1200240": "A",
+    "P1200250": "A",
+    "P1700100": "A",
+    "P1060010": "A",
+    "P1600106": "A",
+    "P1600107": "A",
+    "P1600108": "A",
+    "P1600109": "A",
+    "P1060090": "A",
+    "P1200200": "A.1",
+    "P1200210": "A.1",
+    "P1200220": "A.1",
+    "P1200230": "A.1",
+    "P1200350": "A.1",
+    "P1200270": "A.1",
+    "P1020100": "B",
+    "P1020200": "B",
+    "P1040501": "B",
+    "P1060100": "B",
+    "P1060101": "B",
+    "P1060102": "B",
+    "P1060103": "B",
+    "P1060104": "B",
+    "P1060105": "B",
+    "P1040502": "C",
+    "P1040503": "C",
+    "P1040504": "C",
+    "P1040505": "C",
+    "P1030101": "D",
+    "P1030102": "D",
+    "P1030103": "D",
+    "P1030104": "D",
+    "P1030201": "D",
+    "P1030202": "D",
+    "P1030203": "D",
+    "P1030204": "D",
+    "P1050100": "E",
+    "P1050101": "E",
+    "P1050102": "E",
+    "P1050103": "E",
+    "P1050104": "E",
+    "P1030301": "F",
+    "P1060040": "F",
+    "P1700101": "F",
+    "P1700102": "F",
+    "P1060050": "F",
+    "P1060060": "F",
+    "P1700103": "F",
+    "P1200340": "F",
+    "P1200280": "F.1",
+    "P1200290": "F.1",
+    "P1200300": "F.1",
+    "P1200310": "F.1",
+    "P1200320": "F.1",
+    "P1200330": "F.1",
+    "P1600110": "F.1",
+    "P1060106": "G",
+    "P1060107": "G",
+    "P1060108": "G",
+    "P1060109": "G",
+    "P1060110": "G",
+    "P1060111": "G",
+    "P1060112": "G",
+    "P1060113": "G",
+    "P1060114": "G",
+    "P1700104": "G",
+    "P1600100": "H",
+    "P1600101": "H",
+    "P1600102": "H",
+    "P1600103": "H",
+    "P1600111": "I",
+    "P1600112": "I",
+    "P1600113": "I",
+    "P1600114": "I",
+    "P1600115": "I",
+    "P1600116": "I",
+    "P1600117": "I",
+    "P1600118": "I",
+    "P1600119": "I",
+    "P1600120": "I",
+    "P1030303": "J",
+    "P1060070": "J",
+    "P1030304": "J",
+    "P1030401": "J",
+    "P1040506": "J",
+    "P1040507": "J",
+    "P1060115": "J",
+    "P1060116": "J",
+    "P1030403": "J",
+    "P1060080": "J",
+    "P1060117": "J",
+    "P1060118": "J",
+    "P1060119": "J",
+    "P1060120": "J",
+    "P1060121": "J",
+    "P1060122": "J",
+    "P1060123": "J",
+    "P1030404": "J"
+  },
+  "prestaciones_por_codigo": {
+    "P1010100": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010100",
+      "detalle_prestacion": "D . I . U T con Cobre",
+      "detalle_niveles": "D . I . U T con Cobre",
+      "fila_excel": 11
+    },
+    "P1060124": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1060124",
+      "detalle_prestacion": "D . I . U con Levonorgestrel - D . I . U T con Cobre",
+      "detalle_niveles": "D . I . U con Levonorgestrel - D . I . U T con Cobre",
+      "fila_excel": 12
+    },
+    "P1010201": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010201",
+      "detalle_prestacion": "Hormonal - Oral Combinado",
+      "detalle_niveles": "Hormonal - Oral Combinado",
+      "fila_excel": 13
+    },
+    "P1010202": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010202",
+      "detalle_prestacion": "Hormonal - Oral Progestágeno",
+      "detalle_niveles": "Hormonal - Oral Progestágeno",
+      "fila_excel": 14
+    },
+    "P1010203": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010203",
+      "detalle_prestacion": "Hormonal - Inyectable Combinado",
+      "detalle_niveles": "Hormonal - Inyectable Combinado",
+      "fila_excel": 15
+    },
+    "P1040508": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1040508",
+      "detalle_prestacion": "Hormonal - Inyectable Progestágeno",
+      "detalle_niveles": "Hormonal - Inyectable Progestágeno",
+      "fila_excel": 16
+    },
+    "P1040500": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1040500",
+      "detalle_prestacion": "Hormonal - Implante Etonogestrel (3 años)",
+      "detalle_niveles": "Hormonal - Implante Etonogestrel (3 años)",
+      "fila_excel": 17
+    },
+    "P1200190": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1200190",
+      "detalle_prestacion": "Hormonal - Implante Levonorgestrel (5 años)",
+      "detalle_niveles": "Hormonal - Implante Levonorgestrel (5 años)",
+      "fila_excel": 18
+    },
+    "P1600105": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1600105",
+      "detalle_prestacion": "Hormonal - Anillo Vaginal",
+      "detalle_niveles": "Hormonal - Anillo Vaginal",
+      "fila_excel": 19
+    },
+    "P1010301": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010301",
+      "detalle_prestacion": "Solo Preservativo MAC - Mujer",
+      "detalle_niveles": "Solo Preservativo MAC - Mujer",
+      "fila_excel": 20
+    },
+    "P1010302": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010302",
+      "detalle_prestacion": "Solo Preservativo MAC - Hombres",
+      "detalle_niveles": "Solo Preservativo MAC - Hombres",
+      "fila_excel": 21
+    },
+    "P1200240": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1200240",
+      "detalle_prestacion": "Esterilización Quirúrgica - Mujer",
+      "detalle_niveles": "Esterilización Quirúrgica - Mujer",
+      "fila_excel": 22
+    },
+    "P1200250": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1200250",
+      "detalle_prestacion": "Esterilización Quirúrgica - Hombres",
+      "detalle_niveles": "Esterilización Quirúrgica - Hombres",
+      "fila_excel": 23
+    },
+    "P1700100": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1700100",
+      "detalle_prestacion": "Otro",
+      "detalle_niveles": "Otro",
+      "fila_excel": 24
+    },
+    "P1060010": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1060010",
+      "detalle_prestacion": "Mujeres en control con enfermedad cardiovascular (DM-HTA)",
+      "detalle_niveles": "Mujeres en control con enfermedad cardiovascular (DM-HTA)",
+      "fila_excel": 26
+    },
+    "P1600106": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1600106",
+      "detalle_prestacion": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En APS",
+      "detalle_niveles": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En APS",
+      "fila_excel": 27
+    },
+    "P1600107": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1600107",
+      "detalle_prestacion": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En Extrasistema",
+      "detalle_niveles": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En Extrasistema",
+      "fila_excel": 28
+    },
+    "P1600108": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1600108",
+      "detalle_prestacion": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En APS",
+      "detalle_niveles": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En APS",
+      "fila_excel": 29
+    },
+    "P1600109": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1600109",
+      "detalle_prestacion": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En Extrasistema",
+      "detalle_niveles": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En Extrasistema",
+      "fila_excel": 30
+    },
+    "P1060090": {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1060090",
+      "detalle_prestacion": "Método de Regulación de Fertilidad más Preservativo",
+      "detalle_niveles": "Método de Regulación de Fertilidad más Preservativo",
+      "fila_excel": 31
+    },
+    "P1200200": {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200200",
+      "detalle_prestacion": "Preservativo/Práctica Sexual segura - Mujer",
+      "detalle_niveles": "Preservativo/Práctica Sexual segura - Mujer",
+      "fila_excel": 35
+    },
+    "P1200210": {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200210",
+      "detalle_prestacion": "Preservativo/Práctica Sexual segura - Hombres",
+      "detalle_niveles": "Preservativo/Práctica Sexual segura - Hombres",
+      "fila_excel": 36
+    },
+    "P1200220": {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200220",
+      "detalle_prestacion": "Lubricantes - Mujer",
+      "detalle_niveles": "Lubricantes - Mujer",
+      "fila_excel": 37
+    },
+    "P1200230": {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200230",
+      "detalle_prestacion": "Lubricantes - Hombres",
+      "detalle_niveles": "Lubricantes - Hombres",
+      "fila_excel": 38
+    },
+    "P1200350": {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200350",
+      "detalle_prestacion": "Condon Femenino",
+      "detalle_niveles": "Condon Femenino",
+      "fila_excel": 39
+    },
+    "P1200270": {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200270",
+      "detalle_prestacion": "Gestantes que reciben preservativo",
+      "detalle_niveles": "Gestantes que reciben preservativo",
+      "fila_excel": 40
+    },
+    "P1020100": {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1020100",
+      "detalle_prestacion": "Menos de 15 años",
+      "detalle_niveles": "Menos de 15 años",
+      "fila_excel": 44
+    },
+    "P1020200": {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1020200",
+      "detalle_prestacion": "15 a 19 años",
+      "detalle_niveles": "15 a 19 años",
+      "fila_excel": 45
+    },
+    "P1040501": {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1040501",
+      "detalle_prestacion": "20 a 24 años",
+      "detalle_niveles": "20 a 24 años",
+      "fila_excel": 46
+    },
+    "P1060100": {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060100",
+      "detalle_prestacion": "25 a 29 años",
+      "detalle_niveles": "25 a 29 años",
+      "fila_excel": 47
+    },
+    "P1060101": {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060101",
+      "detalle_prestacion": "30 a 34 años",
+      "detalle_niveles": "30 a 34 años",
+      "fila_excel": 48
+    },
+    "P1060102": {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060102",
+      "detalle_prestacion": "35 a 39 años",
+      "detalle_niveles": "35 a 39 años",
+      "fila_excel": 49
+    },
+    "P1060103": {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060103",
+      "detalle_prestacion": "40 a 44 años",
+      "detalle_niveles": "40 a 44 años",
+      "fila_excel": 50
+    },
+    "P1060104": {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060104",
+      "detalle_prestacion": "45 a 49 años",
+      "detalle_niveles": "45 a 49 años",
+      "fila_excel": 51
+    },
+    "P1060105": {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060105",
+      "detalle_prestacion": "50 a 54 años",
+      "detalle_niveles": "50 a 54 años",
+      "fila_excel": 52
+    },
+    "P1040502": {
+      "rem": "P1",
+      "seccion": "C",
+      "seccion_nombre": "GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE",
+      "codigo_prestacion": "P1040502",
+      "detalle_prestacion": "1 Visita",
+      "detalle_niveles": "1 Visita",
+      "fila_excel": 57
+    },
+    "P1040503": {
+      "rem": "P1",
+      "seccion": "C",
+      "seccion_nombre": "GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE",
+      "codigo_prestacion": "P1040503",
+      "detalle_prestacion": "2 Visitas",
+      "detalle_niveles": "2 Visitas",
+      "fila_excel": 58
+    },
+    "P1040504": {
+      "rem": "P1",
+      "seccion": "C",
+      "seccion_nombre": "GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE",
+      "codigo_prestacion": "P1040504",
+      "detalle_prestacion": "3 Visitas",
+      "detalle_niveles": "3 Visitas",
+      "fila_excel": 59
+    },
+    "P1040505": {
+      "rem": "P1",
+      "seccion": "C",
+      "seccion_nombre": "GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE",
+      "codigo_prestacion": "P1040505",
+      "detalle_prestacion": "4 y más Visitas",
+      "detalle_niveles": "4 y más Visitas",
+      "fila_excel": 60
+    },
+    "P1030101": {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030101",
+      "detalle_prestacion": "Gestantes en Control (Información a la fecha de corte) - Obesa",
+      "detalle_niveles": "Gestantes en Control (Información a la fecha de corte) - Obesa",
+      "fila_excel": 65
+    },
+    "P1030102": {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030102",
+      "detalle_prestacion": "Gestantes en Control (Información a la fecha de corte) - Sobrepeso",
+      "detalle_niveles": "Gestantes en Control (Información a la fecha de corte) - Sobrepeso",
+      "fila_excel": 66
+    },
+    "P1030103": {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030103",
+      "detalle_prestacion": "Gestantes en Control (Información a la fecha de corte) - Normal",
+      "detalle_niveles": "Gestantes en Control (Información a la fecha de corte) - Normal",
+      "fila_excel": 67
+    },
+    "P1030104": {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030104",
+      "detalle_prestacion": "Gestantes en Control (Información a la fecha de corte) - Bajo Peso",
+      "detalle_niveles": "Gestantes en Control (Información a la fecha de corte) - Bajo Peso",
+      "fila_excel": 68
+    },
+    "P1030201": {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030201",
+      "detalle_prestacion": "Control al 8º mes Post-Parto (Información del semestre) - Obesa",
+      "detalle_niveles": "Control al 8º mes Post-Parto (Información del semestre) - Obesa",
+      "fila_excel": 70
+    },
+    "P1030202": {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030202",
+      "detalle_prestacion": "Control al 8º mes Post-Parto (Información del semestre) - Sobrepeso",
+      "detalle_niveles": "Control al 8º mes Post-Parto (Información del semestre) - Sobrepeso",
+      "fila_excel": 71
+    },
+    "P1030203": {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030203",
+      "detalle_prestacion": "Control al 8º mes Post-Parto (Información del semestre) - Normal",
+      "detalle_niveles": "Control al 8º mes Post-Parto (Información del semestre) - Normal",
+      "fila_excel": 72
+    },
+    "P1030204": {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030204",
+      "detalle_prestacion": "Control al 8º mes Post-Parto (Información del semestre) - Bajo Peso",
+      "detalle_niveles": "Control al 8º mes Post-Parto (Información del semestre) - Bajo Peso",
+      "fila_excel": 73
+    },
+    "P1050100": {
+      "rem": "P1",
+      "seccion": "E",
+      "seccion_nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "codigo_prestacion": "P1050100",
+      "detalle_prestacion": "Gestantes con malnutrición por déficit (bajo peso)",
+      "detalle_niveles": "Gestantes con malnutrición por déficit (bajo peso)",
+      "fila_excel": 77
+    },
+    "P1050101": {
+      "rem": "P1",
+      "seccion": "E",
+      "seccion_nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "codigo_prestacion": "P1050101",
+      "detalle_prestacion": "Gestantes con malnutrición por exceso - Obesa",
+      "detalle_niveles": "Gestantes con malnutrición por exceso - Obesa",
+      "fila_excel": 78
+    },
+    "P1050102": {
+      "rem": "P1",
+      "seccion": "E",
+      "seccion_nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "codigo_prestacion": "P1050102",
+      "detalle_prestacion": "Gestantes con malnutrición por exceso - Sobrepeso",
+      "detalle_niveles": "Gestantes con malnutrición por exceso - Sobrepeso",
+      "fila_excel": 79
+    },
+    "P1050103": {
+      "rem": "P1",
+      "seccion": "E",
+      "seccion_nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "codigo_prestacion": "P1050103",
+      "detalle_prestacion": "En 3º mes post parto",
+      "detalle_niveles": "En 3º mes post parto",
+      "fila_excel": 80
+    },
+    "P1050104": {
+      "rem": "P1",
+      "seccion": "E",
+      "seccion_nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "codigo_prestacion": "P1050104",
+      "detalle_prestacion": "En 6º mes post parto",
+      "detalle_niveles": "En 6º mes post parto",
+      "fila_excel": 81
+    },
+    "P1030301": {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1030301",
+      "detalle_prestacion": "Población en Control",
+      "detalle_niveles": "Población en Control",
+      "fila_excel": 84
+    },
+    "P1060040": {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1060040",
+      "detalle_prestacion": "Mujeres con pauta aplicada MRS*",
+      "detalle_niveles": "Mujeres con pauta aplicada MRS*",
+      "fila_excel": 85
+    },
+    "P1700101": {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1700101",
+      "detalle_prestacion": "Mujeres con MRS al ingreso",
+      "detalle_niveles": "Mujeres con MRS al ingreso",
+      "fila_excel": 86
+    },
+    "P1700102": {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1700102",
+      "detalle_prestacion": "Mujeres con MRS en control",
+      "detalle_niveles": "Mujeres con MRS en control",
+      "fila_excel": 87
+    },
+    "P1060050": {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1060050",
+      "detalle_prestacion": "Mujeres con MRS elevado*",
+      "detalle_niveles": "Mujeres con MRS elevado*",
+      "fila_excel": 88
+    },
+    "P1060060": {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1060060",
+      "detalle_prestacion": "Mujeres con aplicación de terapia hormonal de la menopausia según MRS*",
+      "detalle_niveles": "Mujeres con aplicación de terapia hormonal de la menopausia según MRS*",
+      "fila_excel": 89
+    },
+    "P1700103": {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1700103",
+      "detalle_prestacion": "Mujeres que disminuyeron puntaje de MRS o se mantienen en MRS bajo, según MRS de control",
+      "detalle_niveles": "Mujeres que disminuyeron puntaje de MRS o se mantienen en MRS bajo, según MRS de control",
+      "fila_excel": 90
+    },
+    "P1200340": {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1200340",
+      "detalle_prestacion": "Mujeres que asisten a Talleres Educativos",
+      "detalle_niveles": "Mujeres que asisten a Talleres Educativos",
+      "fila_excel": 91
+    },
+    "P1200280": {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200280",
+      "detalle_prestacion": "Estradiol Micronizado 1mg.",
+      "detalle_niveles": "Estradiol Micronizado 1mg.",
+      "fila_excel": 96
+    },
+    "P1200290": {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200290",
+      "detalle_prestacion": "Estradiol Gel - Estradiol Micronizado 1mg.",
+      "detalle_niveles": "Estradiol Gel - Estradiol Micronizado 1mg.",
+      "fila_excel": 97
+    },
+    "P1200300": {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200300",
+      "detalle_prestacion": "Progesterona Micronizada 100mg.",
+      "detalle_niveles": "Progesterona Micronizada 100mg.",
+      "fila_excel": 98
+    },
+    "P1200310": {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200310",
+      "detalle_prestacion": "Progesterona Micronizada 200mg.",
+      "detalle_niveles": "Progesterona Micronizada 200mg.",
+      "fila_excel": 99
+    },
+    "P1200320": {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200320",
+      "detalle_prestacion": "Nomegestrol 5mg. comp.",
+      "detalle_niveles": "Nomegestrol 5mg. comp.",
+      "fila_excel": 100
+    },
+    "P1200330": {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200330",
+      "detalle_prestacion": "Tibolona 2,5mg. comp.",
+      "detalle_niveles": "Tibolona 2,5mg. comp.",
+      "fila_excel": 101
+    },
+    "P1600110": {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1600110",
+      "detalle_prestacion": "Terapia Dual",
+      "detalle_niveles": "Terapia Dual",
+      "fila_excel": 102
+    },
+    "P1060106": {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060106",
+      "detalle_prestacion": "Menor de 15",
+      "detalle_niveles": "Menor de 15",
+      "fila_excel": 106
+    },
+    "P1060107": {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060107",
+      "detalle_prestacion": "15 - 19",
+      "detalle_niveles": "15 - 19",
+      "fila_excel": 107
+    },
+    "P1060108": {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060108",
+      "detalle_prestacion": "20 - 24",
+      "detalle_niveles": "20 - 24",
+      "fila_excel": 108
+    },
+    "P1060109": {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060109",
+      "detalle_prestacion": "25 - 29",
+      "detalle_niveles": "25 - 29",
+      "fila_excel": 109
+    },
+    "P1060110": {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060110",
+      "detalle_prestacion": "30 - 34",
+      "detalle_niveles": "30 - 34",
+      "fila_excel": 110
+    },
+    "P1060111": {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060111",
+      "detalle_prestacion": "35 - 39",
+      "detalle_niveles": "35 - 39",
+      "fila_excel": 111
+    },
+    "P1060112": {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060112",
+      "detalle_prestacion": "40 - 44",
+      "detalle_niveles": "40 - 44",
+      "fila_excel": 112
+    },
+    "P1060113": {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060113",
+      "detalle_prestacion": "45 - 49",
+      "detalle_niveles": "45 - 49",
+      "fila_excel": 113
+    },
+    "P1060114": {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060114",
+      "detalle_prestacion": "50 - 54",
+      "detalle_niveles": "50 - 54",
+      "fila_excel": 114
+    },
+    "P1700104": {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1700104",
+      "detalle_prestacion": "Gestantes con Ecografías del extrasistema",
+      "detalle_niveles": "Gestantes con Ecografías del extrasistema",
+      "fila_excel": 116
+    },
+    "P1600100": {
+      "rem": "P1",
+      "seccion": "H",
+      "seccion_nombre": "MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1600100",
+      "detalle_prestacion": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Obesa",
+      "detalle_niveles": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Obesa",
+      "fila_excel": 120
+    },
+    "P1600101": {
+      "rem": "P1",
+      "seccion": "H",
+      "seccion_nombre": "MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1600101",
+      "detalle_prestacion": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Sobrepeso",
+      "detalle_niveles": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Sobrepeso",
+      "fila_excel": 121
+    },
+    "P1600102": {
+      "rem": "P1",
+      "seccion": "H",
+      "seccion_nombre": "MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1600102",
+      "detalle_prestacion": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Normal",
+      "detalle_niveles": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Normal",
+      "fila_excel": 122
+    },
+    "P1600103": {
+      "rem": "P1",
+      "seccion": "H",
+      "seccion_nombre": "MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1600103",
+      "detalle_prestacion": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Bajo peso",
+      "detalle_niveles": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Bajo peso",
+      "fila_excel": 123
+    },
+    "P1600111": {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600111",
+      "detalle_prestacion": "Menor de 15",
+      "detalle_niveles": "Menor de 15",
+      "fila_excel": 128
+    },
+    "P1600112": {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600112",
+      "detalle_prestacion": "15 - 19",
+      "detalle_niveles": "15 - 19",
+      "fila_excel": 129
+    },
+    "P1600113": {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600113",
+      "detalle_prestacion": "20 - 24",
+      "detalle_niveles": "20 - 24",
+      "fila_excel": 130
+    },
+    "P1600114": {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600114",
+      "detalle_prestacion": "25 - 29",
+      "detalle_niveles": "25 - 29",
+      "fila_excel": 131
+    },
+    "P1600115": {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600115",
+      "detalle_prestacion": "30 - 34",
+      "detalle_niveles": "30 - 34",
+      "fila_excel": 132
+    },
+    "P1600116": {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600116",
+      "detalle_prestacion": "35 - 39",
+      "detalle_niveles": "35 - 39",
+      "fila_excel": 133
+    },
+    "P1600117": {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600117",
+      "detalle_prestacion": "40 - 44",
+      "detalle_niveles": "40 - 44",
+      "fila_excel": 134
+    },
+    "P1600118": {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600118",
+      "detalle_prestacion": "45 - 49",
+      "detalle_niveles": "45 - 49",
+      "fila_excel": 135
+    },
+    "P1600119": {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600119",
+      "detalle_prestacion": "50 - 54",
+      "detalle_niveles": "50 - 54",
+      "fila_excel": 136
+    },
+    "P1600120": {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600120",
+      "detalle_prestacion": "Gestantes con Tamizajes resultado pendiente",
+      "detalle_niveles": "Gestantes con Tamizajes resultado pendiente",
+      "fila_excel": 138
+    },
+    "P1030303": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1030303",
+      "detalle_prestacion": "Preeclampsia (PE)",
+      "detalle_niveles": "Preeclampsia (PE)",
+      "fila_excel": 142
+    },
+    "P1060070": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060070",
+      "detalle_prestacion": "Sindrome Hipertensivo del Embarazo (SHE)",
+      "detalle_niveles": "Sindrome Hipertensivo del Embarazo (SHE)",
+      "fila_excel": 143
+    },
+    "P1030304": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1030304",
+      "detalle_prestacion": "Factores de riesgo y condicionantes de Parto Prematuro",
+      "detalle_niveles": "Factores de riesgo y condicionantes de Parto Prematuro",
+      "fila_excel": 144
+    },
+    "P1030401": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1030401",
+      "detalle_prestacion": "Retardo Crecimiento Intrauterino (RCIU)",
+      "detalle_niveles": "Retardo Crecimiento Intrauterino (RCIU)",
+      "fila_excel": 145
+    },
+    "P1040506": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1040506",
+      "detalle_prestacion": "Sífilis",
+      "detalle_niveles": "Sífilis",
+      "fila_excel": 146
+    },
+    "P1040507": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1040507",
+      "detalle_prestacion": "VIH",
+      "detalle_niveles": "VIH",
+      "fila_excel": 147
+    },
+    "P1060115": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060115",
+      "detalle_prestacion": "Diabetes Pre Gestacional",
+      "detalle_niveles": "Diabetes Pre Gestacional",
+      "fila_excel": 148
+    },
+    "P1060116": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060116",
+      "detalle_prestacion": "Diabetes Gestacional",
+      "detalle_niveles": "Diabetes Gestacional",
+      "fila_excel": 149
+    },
+    "P1030403": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1030403",
+      "detalle_prestacion": "Cesárea anterior",
+      "detalle_niveles": "Cesárea anterior",
+      "fila_excel": 150
+    },
+    "P1060080": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060080",
+      "detalle_prestacion": "Malformación Congénita",
+      "detalle_niveles": "Malformación Congénita",
+      "fila_excel": 151
+    },
+    "P1060117": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060117",
+      "detalle_prestacion": "Anemia",
+      "detalle_niveles": "Anemia",
+      "fila_excel": 152
+    },
+    "P1060118": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060118",
+      "detalle_prestacion": "Cardiopatías",
+      "detalle_niveles": "Cardiopatías",
+      "fila_excel": 153
+    },
+    "P1060119": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060119",
+      "detalle_prestacion": "Pielonefritis",
+      "detalle_niveles": "Pielonefritis",
+      "fila_excel": 154
+    },
+    "P1060120": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060120",
+      "detalle_prestacion": "Rh(-) sensibilizada",
+      "detalle_niveles": "Rh(-) sensibilizada",
+      "fila_excel": 155
+    },
+    "P1060121": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060121",
+      "detalle_prestacion": "Placenta previa",
+      "detalle_niveles": "Placenta previa",
+      "fila_excel": 156
+    },
+    "P1060122": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060122",
+      "detalle_prestacion": "Chagas",
+      "detalle_niveles": "Chagas",
+      "fila_excel": 157
+    },
+    "P1060123": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060123",
+      "detalle_prestacion": "Colestasia Intrahépatica de Embarazo",
+      "detalle_niveles": "Colestasia Intrahépatica de Embarazo",
+      "fila_excel": 158
+    },
+    "P1030404": {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1030404",
+      "detalle_prestacion": "Otras patologías del embarazo",
+      "detalle_niveles": "Otras patologías del embarazo",
+      "fila_excel": 159
+    }
+  },
+  "prestaciones": [
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010100",
+      "detalle_prestacion": "D . I . U T con Cobre",
+      "detalle_niveles": "D . I . U T con Cobre",
+      "fila_excel": 11
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1060124",
+      "detalle_prestacion": "D . I . U con Levonorgestrel - D . I . U T con Cobre",
+      "detalle_niveles": "D . I . U con Levonorgestrel - D . I . U T con Cobre",
+      "fila_excel": 12
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010201",
+      "detalle_prestacion": "Hormonal - Oral Combinado",
+      "detalle_niveles": "Hormonal - Oral Combinado",
+      "fila_excel": 13
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010202",
+      "detalle_prestacion": "Hormonal - Oral Progestágeno",
+      "detalle_niveles": "Hormonal - Oral Progestágeno",
+      "fila_excel": 14
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010203",
+      "detalle_prestacion": "Hormonal - Inyectable Combinado",
+      "detalle_niveles": "Hormonal - Inyectable Combinado",
+      "fila_excel": 15
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1040508",
+      "detalle_prestacion": "Hormonal - Inyectable Progestágeno",
+      "detalle_niveles": "Hormonal - Inyectable Progestágeno",
+      "fila_excel": 16
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1040500",
+      "detalle_prestacion": "Hormonal - Implante Etonogestrel (3 años)",
+      "detalle_niveles": "Hormonal - Implante Etonogestrel (3 años)",
+      "fila_excel": 17
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1200190",
+      "detalle_prestacion": "Hormonal - Implante Levonorgestrel (5 años)",
+      "detalle_niveles": "Hormonal - Implante Levonorgestrel (5 años)",
+      "fila_excel": 18
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1600105",
+      "detalle_prestacion": "Hormonal - Anillo Vaginal",
+      "detalle_niveles": "Hormonal - Anillo Vaginal",
+      "fila_excel": 19
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010301",
+      "detalle_prestacion": "Solo Preservativo MAC - Mujer",
+      "detalle_niveles": "Solo Preservativo MAC - Mujer",
+      "fila_excel": 20
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1010302",
+      "detalle_prestacion": "Solo Preservativo MAC - Hombres",
+      "detalle_niveles": "Solo Preservativo MAC - Hombres",
+      "fila_excel": 21
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1200240",
+      "detalle_prestacion": "Esterilización Quirúrgica - Mujer",
+      "detalle_niveles": "Esterilización Quirúrgica - Mujer",
+      "fila_excel": 22
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1200250",
+      "detalle_prestacion": "Esterilización Quirúrgica - Hombres",
+      "detalle_niveles": "Esterilización Quirúrgica - Hombres",
+      "fila_excel": 23
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1700100",
+      "detalle_prestacion": "Otro",
+      "detalle_niveles": "Otro",
+      "fila_excel": 24
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1060010",
+      "detalle_prestacion": "Mujeres en control con enfermedad cardiovascular (DM-HTA)",
+      "detalle_niveles": "Mujeres en control con enfermedad cardiovascular (DM-HTA)",
+      "fila_excel": 26
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1600106",
+      "detalle_prestacion": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En APS",
+      "detalle_niveles": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En APS",
+      "fila_excel": 27
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1600107",
+      "detalle_prestacion": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En Extrasistema",
+      "detalle_niveles": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 3 años) - En Extrasistema",
+      "fila_excel": 28
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1600108",
+      "detalle_prestacion": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En APS",
+      "detalle_niveles": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En APS",
+      "fila_excel": 29
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1600109",
+      "detalle_prestacion": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En Extrasistema",
+      "detalle_niveles": "Mujeres con Retiro de Implante Anticipado en el semestre (antes de los 5 años) - En Extrasistema",
+      "fila_excel": 30
+    },
+    {
+      "rem": "P1",
+      "seccion": "A",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN MÉTODO DE REGULACIÓN DE FERTILIDAD",
+      "codigo_prestacion": "P1060090",
+      "detalle_prestacion": "Método de Regulación de Fertilidad más Preservativo",
+      "detalle_niveles": "Método de Regulación de Fertilidad más Preservativo",
+      "fila_excel": 31
+    },
+    {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200200",
+      "detalle_prestacion": "Preservativo/Práctica Sexual segura - Mujer",
+      "detalle_niveles": "Preservativo/Práctica Sexual segura - Mujer",
+      "fila_excel": 35
+    },
+    {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200210",
+      "detalle_prestacion": "Preservativo/Práctica Sexual segura - Hombres",
+      "detalle_niveles": "Preservativo/Práctica Sexual segura - Hombres",
+      "fila_excel": 36
+    },
+    {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200220",
+      "detalle_prestacion": "Lubricantes - Mujer",
+      "detalle_niveles": "Lubricantes - Mujer",
+      "fila_excel": 37
+    },
+    {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200230",
+      "detalle_prestacion": "Lubricantes - Hombres",
+      "detalle_niveles": "Lubricantes - Hombres",
+      "fila_excel": 38
+    },
+    {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200350",
+      "detalle_prestacion": "Condon Femenino",
+      "detalle_niveles": "Condon Femenino",
+      "fila_excel": 39
+    },
+    {
+      "rem": "P1",
+      "seccion": "A.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL SEGÚN SALUD SEXUAL",
+      "codigo_prestacion": "P1200270",
+      "detalle_prestacion": "Gestantes que reciben preservativo",
+      "detalle_niveles": "Gestantes que reciben preservativo",
+      "fila_excel": 40
+    },
+    {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1020100",
+      "detalle_prestacion": "Menos de 15 años",
+      "detalle_niveles": "Menos de 15 años",
+      "fila_excel": 44
+    },
+    {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1020200",
+      "detalle_prestacion": "15 a 19 años",
+      "detalle_niveles": "15 a 19 años",
+      "fila_excel": 45
+    },
+    {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1040501",
+      "detalle_prestacion": "20 a 24 años",
+      "detalle_niveles": "20 a 24 años",
+      "fila_excel": 46
+    },
+    {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060100",
+      "detalle_prestacion": "25 a 29 años",
+      "detalle_niveles": "25 a 29 años",
+      "fila_excel": 47
+    },
+    {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060101",
+      "detalle_prestacion": "30 a 34 años",
+      "detalle_niveles": "30 a 34 años",
+      "fila_excel": 48
+    },
+    {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060102",
+      "detalle_prestacion": "35 a 39 años",
+      "detalle_niveles": "35 a 39 años",
+      "fila_excel": 49
+    },
+    {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060103",
+      "detalle_prestacion": "40 a 44 años",
+      "detalle_niveles": "40 a 44 años",
+      "fila_excel": 50
+    },
+    {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060104",
+      "detalle_prestacion": "45 a 49 años",
+      "detalle_niveles": "45 a 49 años",
+      "fila_excel": 51
+    },
+    {
+      "rem": "P1",
+      "seccion": "B",
+      "seccion_nombre": "GESTANTES EN CONTROL CON EVALUACIÓN RIESGO BIOPSICOSOCIAL",
+      "codigo_prestacion": "P1060105",
+      "detalle_prestacion": "50 a 54 años",
+      "detalle_niveles": "50 a 54 años",
+      "fila_excel": 52
+    },
+    {
+      "rem": "P1",
+      "seccion": "C",
+      "seccion_nombre": "GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE",
+      "codigo_prestacion": "P1040502",
+      "detalle_prestacion": "1 Visita",
+      "detalle_niveles": "1 Visita",
+      "fila_excel": 57
+    },
+    {
+      "rem": "P1",
+      "seccion": "C",
+      "seccion_nombre": "GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE",
+      "codigo_prestacion": "P1040503",
+      "detalle_prestacion": "2 Visitas",
+      "detalle_niveles": "2 Visitas",
+      "fila_excel": 58
+    },
+    {
+      "rem": "P1",
+      "seccion": "C",
+      "seccion_nombre": "GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE",
+      "codigo_prestacion": "P1040504",
+      "detalle_prestacion": "3 Visitas",
+      "detalle_niveles": "3 Visitas",
+      "fila_excel": 59
+    },
+    {
+      "rem": "P1",
+      "seccion": "C",
+      "seccion_nombre": "GESTANTES EN RIESGO PSICOSOCIAL CON VISITA DOMICILIARIA INTEGRAL REALIZADA EN EL SEMESTRE",
+      "codigo_prestacion": "P1040505",
+      "detalle_prestacion": "4 y más Visitas",
+      "detalle_niveles": "4 y más Visitas",
+      "fila_excel": 60
+    },
+    {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030101",
+      "detalle_prestacion": "Gestantes en Control (Información a la fecha de corte) - Obesa",
+      "detalle_niveles": "Gestantes en Control (Información a la fecha de corte) - Obesa",
+      "fila_excel": 65
+    },
+    {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030102",
+      "detalle_prestacion": "Gestantes en Control (Información a la fecha de corte) - Sobrepeso",
+      "detalle_niveles": "Gestantes en Control (Información a la fecha de corte) - Sobrepeso",
+      "fila_excel": 66
+    },
+    {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030103",
+      "detalle_prestacion": "Gestantes en Control (Información a la fecha de corte) - Normal",
+      "detalle_niveles": "Gestantes en Control (Información a la fecha de corte) - Normal",
+      "fila_excel": 67
+    },
+    {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030104",
+      "detalle_prestacion": "Gestantes en Control (Información a la fecha de corte) - Bajo Peso",
+      "detalle_niveles": "Gestantes en Control (Información a la fecha de corte) - Bajo Peso",
+      "fila_excel": 68
+    },
+    {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030201",
+      "detalle_prestacion": "Control al 8º mes Post-Parto (Información del semestre) - Obesa",
+      "detalle_niveles": "Control al 8º mes Post-Parto (Información del semestre) - Obesa",
+      "fila_excel": 70
+    },
+    {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030202",
+      "detalle_prestacion": "Control al 8º mes Post-Parto (Información del semestre) - Sobrepeso",
+      "detalle_niveles": "Control al 8º mes Post-Parto (Información del semestre) - Sobrepeso",
+      "fila_excel": 71
+    },
+    {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030203",
+      "detalle_prestacion": "Control al 8º mes Post-Parto (Información del semestre) - Normal",
+      "detalle_niveles": "Control al 8º mes Post-Parto (Información del semestre) - Normal",
+      "fila_excel": 72
+    },
+    {
+      "rem": "P1",
+      "seccion": "D",
+      "seccion_nombre": "GESTANTES Y PERSONAS DE 8° MES POST-PARTO EN CONTROL, SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1030204",
+      "detalle_prestacion": "Control al 8º mes Post-Parto (Información del semestre) - Bajo Peso",
+      "detalle_niveles": "Control al 8º mes Post-Parto (Información del semestre) - Bajo Peso",
+      "fila_excel": 73
+    },
+    {
+      "rem": "P1",
+      "seccion": "E",
+      "seccion_nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "codigo_prestacion": "P1050100",
+      "detalle_prestacion": "Gestantes con malnutrición por déficit (bajo peso)",
+      "detalle_niveles": "Gestantes con malnutrición por déficit (bajo peso)",
+      "fila_excel": 77
+    },
+    {
+      "rem": "P1",
+      "seccion": "E",
+      "seccion_nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "codigo_prestacion": "P1050101",
+      "detalle_prestacion": "Gestantes con malnutrición por exceso - Obesa",
+      "detalle_niveles": "Gestantes con malnutrición por exceso - Obesa",
+      "fila_excel": 78
+    },
+    {
+      "rem": "P1",
+      "seccion": "E",
+      "seccion_nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "codigo_prestacion": "P1050102",
+      "detalle_prestacion": "Gestantes con malnutrición por exceso - Sobrepeso",
+      "detalle_niveles": "Gestantes con malnutrición por exceso - Sobrepeso",
+      "fila_excel": 79
+    },
+    {
+      "rem": "P1",
+      "seccion": "E",
+      "seccion_nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "codigo_prestacion": "P1050103",
+      "detalle_prestacion": "En 3º mes post parto",
+      "detalle_niveles": "En 3º mes post parto",
+      "fila_excel": 80
+    },
+    {
+      "rem": "P1",
+      "seccion": "E",
+      "seccion_nombre": "GESTANTES Y PERSONAS EN CONTROL CON CONSULTA NUTRICIONAL",
+      "codigo_prestacion": "P1050104",
+      "detalle_prestacion": "En 6º mes post parto",
+      "detalle_niveles": "En 6º mes post parto",
+      "fila_excel": 81
+    },
+    {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1030301",
+      "detalle_prestacion": "Población en Control",
+      "detalle_niveles": "Población en Control",
+      "fila_excel": 84
+    },
+    {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1060040",
+      "detalle_prestacion": "Mujeres con pauta aplicada MRS*",
+      "detalle_niveles": "Mujeres con pauta aplicada MRS*",
+      "fila_excel": 85
+    },
+    {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1700101",
+      "detalle_prestacion": "Mujeres con MRS al ingreso",
+      "detalle_niveles": "Mujeres con MRS al ingreso",
+      "fila_excel": 86
+    },
+    {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1700102",
+      "detalle_prestacion": "Mujeres con MRS en control",
+      "detalle_niveles": "Mujeres con MRS en control",
+      "fila_excel": 87
+    },
+    {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1060050",
+      "detalle_prestacion": "Mujeres con MRS elevado*",
+      "detalle_niveles": "Mujeres con MRS elevado*",
+      "fila_excel": 88
+    },
+    {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1060060",
+      "detalle_prestacion": "Mujeres con aplicación de terapia hormonal de la menopausia según MRS*",
+      "detalle_niveles": "Mujeres con aplicación de terapia hormonal de la menopausia según MRS*",
+      "fila_excel": 89
+    },
+    {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1700103",
+      "detalle_prestacion": "Mujeres que disminuyeron puntaje de MRS o se mantienen en MRS bajo, según MRS de control",
+      "detalle_niveles": "Mujeres que disminuyeron puntaje de MRS o se mantienen en MRS bajo, según MRS de control",
+      "fila_excel": 90
+    },
+    {
+      "rem": "P1",
+      "seccion": "F",
+      "seccion_nombre": "MUJERES EN CONTROL DE CLIMATERIO",
+      "codigo_prestacion": "P1200340",
+      "detalle_prestacion": "Mujeres que asisten a Talleres Educativos",
+      "detalle_niveles": "Mujeres que asisten a Talleres Educativos",
+      "fila_excel": 91
+    },
+    {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200280",
+      "detalle_prestacion": "Estradiol Micronizado 1mg.",
+      "detalle_niveles": "Estradiol Micronizado 1mg.",
+      "fila_excel": 96
+    },
+    {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200290",
+      "detalle_prestacion": "Estradiol Gel - Estradiol Micronizado 1mg.",
+      "detalle_niveles": "Estradiol Gel - Estradiol Micronizado 1mg.",
+      "fila_excel": 97
+    },
+    {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200300",
+      "detalle_prestacion": "Progesterona Micronizada 100mg.",
+      "detalle_niveles": "Progesterona Micronizada 100mg.",
+      "fila_excel": 98
+    },
+    {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200310",
+      "detalle_prestacion": "Progesterona Micronizada 200mg.",
+      "detalle_niveles": "Progesterona Micronizada 200mg.",
+      "fila_excel": 99
+    },
+    {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200320",
+      "detalle_prestacion": "Nomegestrol 5mg. comp.",
+      "detalle_niveles": "Nomegestrol 5mg. comp.",
+      "fila_excel": 100
+    },
+    {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1200330",
+      "detalle_prestacion": "Tibolona 2,5mg. comp.",
+      "detalle_niveles": "Tibolona 2,5mg. comp.",
+      "fila_excel": 101
+    },
+    {
+      "rem": "P1",
+      "seccion": "F.1",
+      "seccion_nombre": "POBLACIÓN EN CONTROL CLIMATERIO SEGÚN TIPO DE TERAPIA HORMONAL DE LA MENOPAUSIA",
+      "codigo_prestacion": "P1600110",
+      "detalle_prestacion": "Terapia Dual",
+      "detalle_niveles": "Terapia Dual",
+      "fila_excel": 102
+    },
+    {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060106",
+      "detalle_prestacion": "Menor de 15",
+      "detalle_niveles": "Menor de 15",
+      "fila_excel": 106
+    },
+    {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060107",
+      "detalle_prestacion": "15 - 19",
+      "detalle_niveles": "15 - 19",
+      "fila_excel": 107
+    },
+    {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060108",
+      "detalle_prestacion": "20 - 24",
+      "detalle_niveles": "20 - 24",
+      "fila_excel": 108
+    },
+    {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060109",
+      "detalle_prestacion": "25 - 29",
+      "detalle_niveles": "25 - 29",
+      "fila_excel": 109
+    },
+    {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060110",
+      "detalle_prestacion": "30 - 34",
+      "detalle_niveles": "30 - 34",
+      "fila_excel": 110
+    },
+    {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060111",
+      "detalle_prestacion": "35 - 39",
+      "detalle_niveles": "35 - 39",
+      "fila_excel": 111
+    },
+    {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060112",
+      "detalle_prestacion": "40 - 44",
+      "detalle_niveles": "40 - 44",
+      "fila_excel": 112
+    },
+    {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060113",
+      "detalle_prestacion": "45 - 49",
+      "detalle_niveles": "45 - 49",
+      "fila_excel": 113
+    },
+    {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1060114",
+      "detalle_prestacion": "50 - 54",
+      "detalle_niveles": "50 - 54",
+      "fila_excel": 114
+    },
+    {
+      "rem": "P1",
+      "seccion": "G",
+      "seccion_nombre": "GESTANTES EN CONTROL CON ECOGRAFÍA POR TRIMESTRE DE GESTACION (EN EL SEMESTRE)",
+      "codigo_prestacion": "P1700104",
+      "detalle_prestacion": "Gestantes con Ecografías del extrasistema",
+      "detalle_niveles": "Gestantes con Ecografías del extrasistema",
+      "fila_excel": 116
+    },
+    {
+      "rem": "P1",
+      "seccion": "H",
+      "seccion_nombre": "MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1600100",
+      "detalle_prestacion": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Obesa",
+      "detalle_niveles": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Obesa",
+      "fila_excel": 120
+    },
+    {
+      "rem": "P1",
+      "seccion": "H",
+      "seccion_nombre": "MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1600101",
+      "detalle_prestacion": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Sobrepeso",
+      "detalle_niveles": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Sobrepeso",
+      "fila_excel": 121
+    },
+    {
+      "rem": "P1",
+      "seccion": "H",
+      "seccion_nombre": "MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1600102",
+      "detalle_prestacion": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Normal",
+      "detalle_niveles": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Normal",
+      "fila_excel": 122
+    },
+    {
+      "rem": "P1",
+      "seccion": "H",
+      "seccion_nombre": "MUJERES O PESONAS BAJO CONTROL DE REGULACIÓN DE FERTILIDAD SEGÚN ESTADO NUTRICIONAL",
+      "codigo_prestacion": "P1600103",
+      "detalle_prestacion": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Bajo peso",
+      "detalle_niveles": "Mujeres o Personas bajo control de Regulación de Fertilidad según estado nuricional - Bajo peso",
+      "fila_excel": 123
+    },
+    {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600111",
+      "detalle_prestacion": "Menor de 15",
+      "detalle_niveles": "Menor de 15",
+      "fila_excel": 128
+    },
+    {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600112",
+      "detalle_prestacion": "15 - 19",
+      "detalle_niveles": "15 - 19",
+      "fila_excel": 129
+    },
+    {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600113",
+      "detalle_prestacion": "20 - 24",
+      "detalle_niveles": "20 - 24",
+      "fila_excel": 130
+    },
+    {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600114",
+      "detalle_prestacion": "25 - 29",
+      "detalle_niveles": "25 - 29",
+      "fila_excel": 131
+    },
+    {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600115",
+      "detalle_prestacion": "30 - 34",
+      "detalle_niveles": "30 - 34",
+      "fila_excel": 132
+    },
+    {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600116",
+      "detalle_prestacion": "35 - 39",
+      "detalle_niveles": "35 - 39",
+      "fila_excel": 133
+    },
+    {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600117",
+      "detalle_prestacion": "40 - 44",
+      "detalle_niveles": "40 - 44",
+      "fila_excel": 134
+    },
+    {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600118",
+      "detalle_prestacion": "45 - 49",
+      "detalle_niveles": "45 - 49",
+      "fila_excel": 135
+    },
+    {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600119",
+      "detalle_prestacion": "50 - 54",
+      "detalle_niveles": "50 - 54",
+      "fila_excel": 136
+    },
+    {
+      "rem": "P1",
+      "seccion": "I",
+      "seccion_nombre": "GESTANTES EN CONTROL CON TEST DE VIH/SIFILIS TOMADO (EN EL SEMESTRE, RED PÚBLICA O EXTRASISTEMA)",
+      "codigo_prestacion": "P1600120",
+      "detalle_prestacion": "Gestantes con Tamizajes resultado pendiente",
+      "detalle_niveles": "Gestantes con Tamizajes resultado pendiente",
+      "fila_excel": 138
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1030303",
+      "detalle_prestacion": "Preeclampsia (PE)",
+      "detalle_niveles": "Preeclampsia (PE)",
+      "fila_excel": 142
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060070",
+      "detalle_prestacion": "Sindrome Hipertensivo del Embarazo (SHE)",
+      "detalle_niveles": "Sindrome Hipertensivo del Embarazo (SHE)",
+      "fila_excel": 143
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1030304",
+      "detalle_prestacion": "Factores de riesgo y condicionantes de Parto Prematuro",
+      "detalle_niveles": "Factores de riesgo y condicionantes de Parto Prematuro",
+      "fila_excel": 144
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1030401",
+      "detalle_prestacion": "Retardo Crecimiento Intrauterino (RCIU)",
+      "detalle_niveles": "Retardo Crecimiento Intrauterino (RCIU)",
+      "fila_excel": 145
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1040506",
+      "detalle_prestacion": "Sífilis",
+      "detalle_niveles": "Sífilis",
+      "fila_excel": 146
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1040507",
+      "detalle_prestacion": "VIH",
+      "detalle_niveles": "VIH",
+      "fila_excel": 147
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060115",
+      "detalle_prestacion": "Diabetes Pre Gestacional",
+      "detalle_niveles": "Diabetes Pre Gestacional",
+      "fila_excel": 148
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060116",
+      "detalle_prestacion": "Diabetes Gestacional",
+      "detalle_niveles": "Diabetes Gestacional",
+      "fila_excel": 149
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1030403",
+      "detalle_prestacion": "Cesárea anterior",
+      "detalle_niveles": "Cesárea anterior",
+      "fila_excel": 150
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060080",
+      "detalle_prestacion": "Malformación Congénita",
+      "detalle_niveles": "Malformación Congénita",
+      "fila_excel": 151
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060117",
+      "detalle_prestacion": "Anemia",
+      "detalle_niveles": "Anemia",
+      "fila_excel": 152
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060118",
+      "detalle_prestacion": "Cardiopatías",
+      "detalle_niveles": "Cardiopatías",
+      "fila_excel": 153
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060119",
+      "detalle_prestacion": "Pielonefritis",
+      "detalle_niveles": "Pielonefritis",
+      "fila_excel": 154
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060120",
+      "detalle_prestacion": "Rh(-) sensibilizada",
+      "detalle_niveles": "Rh(-) sensibilizada",
+      "fila_excel": 155
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060121",
+      "detalle_prestacion": "Placenta previa",
+      "detalle_niveles": "Placenta previa",
+      "fila_excel": 156
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060122",
+      "detalle_prestacion": "Chagas",
+      "detalle_niveles": "Chagas",
+      "fila_excel": 157
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1060123",
+      "detalle_prestacion": "Colestasia Intrahépatica de Embarazo",
+      "detalle_niveles": "Colestasia Intrahépatica de Embarazo",
+      "fila_excel": 158
+    },
+    {
+      "rem": "P1",
+      "seccion": "J",
+      "seccion_nombre": "POBLACIÓN EN CONTROL POR PATOLOGÍAS DE ALTO RIESGO OBSTÉTRICO",
+      "codigo_prestacion": "P1030404",
+      "detalle_prestacion": "Otras patologías del embarazo",
+      "detalle_niveles": "Otras patologías del embarazo",
+      "fila_excel": 159
+    }
+  ]
+}
