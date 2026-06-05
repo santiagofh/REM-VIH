@@ -12,10 +12,14 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "2025" / "salida"
 WORKBOOKS = {
     "REM A05": DATA_DIR / "A05_2025.xlsx",
+    "REM A11": DATA_DIR / "A11_2025.xlsx",
+    "REM P1":  DATA_DIR / "P1_2025.xlsx",
     "REM P11": DATA_DIR / "P11_2025.xlsx",
 }
 SOURCE_NOTES = {
     "REM A05": "Acumulado enero a diciembre 2025.",
+    "REM A11": "Acumulado enero a diciembre 2025.",
+    "REM P1":  "Corte de diciembre 2025.",
     "REM P11": "Corte de diciembre 2025.",
 }
 EXCEL_MIME = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"

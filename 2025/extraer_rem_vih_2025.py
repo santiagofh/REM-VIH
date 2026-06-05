@@ -18,7 +18,7 @@ PRODUCTO_ROOT = Path(
     r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\REM\REM-VIH"
 )
 BASE_REM_ROOT = Path(
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM"
+    r"D:\DATA\REM"
 )
 ANIO = "2025"
 SUFIJO_ANIO = ANIO[-2:]
