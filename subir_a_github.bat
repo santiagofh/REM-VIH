@@ -11,7 +11,7 @@ if %errorlevel% neq 0 (
     exit /b 1
 )
 
-for /f "tokens=1-3 delims=/ " %%a in ('date /t') do set FECHA=%%a-%%b-%%c
+for /f "tokens=2-4 delims=/ " %%a in ('date /t') do set FECHA=%%a-%%b-%%c
 for /f "tokens=1-2 delims=: " %%a in ('time /t') do set HORA=%%a%%b
 set COMMIT_MSG=Actualizacion datos REM VIH %FECHA% %HORA%
 
@@ -27,9 +27,9 @@ echo.
 echo Commit: "%COMMIT_MSG%"
 git commit -m "%COMMIT_MSG%"
 if %errorlevel% neq 0 (
-    echo [ERROR] No hay cambios para commit o fallo el commit
-    pause
-    exit /b 1
+    echo Nada que commitear - el repositorio ya esta al dia
+    timeout /t 3 > nul
+    exit /b 0
 )
 
 echo.
