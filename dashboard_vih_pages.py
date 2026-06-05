@@ -7,6 +7,8 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
+from dashboard_indicadores_esenciales import render_indicadores_page
+
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "2025" / "salida"
@@ -602,6 +604,12 @@ def get_navigation_pages():
             title="Explorador",
             icon=":material/table_view:",
             url_path="explorador",
+        ),
+        st.Page(
+            render_indicadores_page,
+            title="Indicadores",
+            icon=":material/bar_chart:",
+            url_path="indicadores",
         ),
         st.Page(
             render_downloads_page,
