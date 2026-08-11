@@ -2,15 +2,9 @@
   "metadata": {
     "rem": "P11",
     "anio": 2025,
-    "archivo_fuente": "C:\\Users\\fariass\\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\\Escritorio\\DATA\\REM\\REM_2025\\Diccionarios\\DICCIONARIO CODIGOS SP_25_V1.2.xlsm",
+    "archivo_fuente": "D:\\DATA\\REM\\REM_2025\\Diccionarios\\DICCIONARIO CODIGOS SP_25_V1.2.xlsm",
     "hoja": "P11",
-    "generado_en": "2026-04-21T15:40:21",
-    "nota_prestaciones": "detalle_prestacion concatena los niveles descriptivos de la fila del codigo, resolviendo celdas combinadas, separados por \" - \".",
-    "nota_columnas": "columna_detalle concatena encabezados aplicables; cuando el Excel omite el rotulo superior pero muestra edad + sexo, se infiere \"RANGO ETARIO Y SEXO\".",
-    "total_secciones": 2,
-    "total_prestaciones": 7,
-    "total_filas_columnas": 317,
-    "codigos_duplicados": []
+    "generado_en": "2026-07-06T09:31:03"
   },
   "columnas_por_seccion": {
     "A": {
