@@ -27,7 +27,7 @@ BASE_REM_DIR = BASE_REM_ROOT / f"REM_{ANIO}"
 DATOS_REM_DIR = BASE_REM_DIR / "Datos"
 DICT_DIR = BASE_REM_DIR / "Diccionarios"
 DEIS_PATH = Path(
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ESTABLECIMIENTOS\establecimientos_deis_actual.xlsx"
+    r"D:\DATA\ESTABLECIMIENTOS\establecimientos_deis_actual.xlsx"
 )
 
 # Carpeta de salida

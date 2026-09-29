@@ -15,7 +15,7 @@ DATOS_REM_DIR = Path(
     r"D:\DATA\REM\REM_2025\Datos"
 )
 DEIS_PATH = Path(
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ESTABLECIMIENTOS\establecimientos_deis_actual.xlsx"
+    r"D:\DATA\ESTABLECIMIENTOS\establecimientos_deis_actual.xlsx"
 )
 
 OUTPUT_DIR = DICCIONARIO_DIR / "salida_comparativo_p11"
